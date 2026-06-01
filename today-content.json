@@ -1,0 +1,18 @@
+{
+  "moodEyebrow": "TODAY’S MOOD",
+  "moodTitle": "Slow morning,\nsoft light.",
+  "moodText": "No rush. Just a good cup, the radiator humming, and the city walking past the window.",
+  "moodSignature": "for today",
+
+  "extraEyebrow": "TODAY’S LITTLE EXTRA",
+  "extraTitleLine1": "Coconut milk upgrade,",
+  "extraTitleLine2": "on us.",
+  "extraText": "With any cappuccino or flat white. Show this note when you order.",
+  "extraValidUntil": "today only",
+  "extraFooter": "Valid today · Subject to availability",
+
+  "filterEyebrow": "TODAY ON FILTER",
+  "filterTitle": "LePèlerin House Filter",
+  "filterNotes": "Chocolate · Hazelnut · Round body",
+  "filterSymbol": "m."
+}
