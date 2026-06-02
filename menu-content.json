@@ -10,8 +10,8 @@
         {
           "name": "Espresso",
           "note": null,
-          "price": "€5.10",
-          "isAvailable": false
+          "price": "€3.10",
+          "isAvailable": true
         },
         {
           "name": "Americano",
