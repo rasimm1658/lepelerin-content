@@ -1,0 +1,603 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-07-15T10:30:00Z",
+  "publishedAt": "2026-07-15T10:30:00Z",
+  "supportedLocales": [
+    "en",
+    "de"
+  ],
+  "defaultLocale": "en",
+  "menu": {
+    "introTitle": {
+      "en": "A short list, made well.",
+      "de": "Eine kleine Auswahl, gut gemacht."
+    },
+    "introText": {
+      "en": "Prices include VAT. Oat milk and other alternatives may add a small extra.",
+      "de": "Die Preise verstehen sich inklusive Mehrwertsteuer. Hafermilch und andere Alternativen können einen kleinen Aufpreis kosten."
+    },
+    "sections": [
+      {
+        "id": "without-milk",
+        "title": {
+          "en": "WITHOUT MILK",
+          "de": "OHNE MILCH"
+        },
+        "subtitle": {
+          "en": "Pure & Black",
+          "de": "Pur & Schwarz"
+        },
+        "items": [
+          {
+            "id": "espresso",
+            "name": {
+              "en": "Espresso",
+              "de": "Espresso"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 310,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "americano",
+            "name": {
+              "en": "Americano",
+              "de": "Americano"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 380,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "filter-coffee",
+            "name": {
+              "en": "Filter coffee",
+              "de": "Filterkaffee"
+            },
+            "note": {
+              "en": "house filter, freshly brewed",
+              "de": "Hausfilter, frisch gebrüht"
+            },
+            "price": {
+              "amountMinor": 480,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "cold-brew",
+            "name": {
+              "en": "Cold Brew",
+              "de": "Cold Brew"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 490,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "cold-brew-tonic",
+            "name": {
+              "en": "Cold Brew Tonic",
+              "de": "Cold Brew Tonic"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 580,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "id": "with-milk",
+        "title": {
+          "en": "WITH MILK",
+          "de": "MIT MILCH"
+        },
+        "subtitle": {
+          "en": "Soft & Creamy",
+          "de": "Sanft & Cremig"
+        },
+        "items": [
+          {
+            "id": "cappuccino",
+            "name": {
+              "en": "Cappuccino",
+              "de": "Cappuccino"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 460,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "latte-macchiato",
+            "name": {
+              "en": "Latte Macchiato",
+              "de": "Latte Macchiato"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 480,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "flat-white",
+            "name": {
+              "en": "Flat White",
+              "de": "Flat White"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 540,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "cortado",
+            "name": {
+              "en": "Cortado",
+              "de": "Cortado"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 380,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "id": "not-coffee",
+        "title": {
+          "en": "NOT COFFEE",
+          "de": "KEIN KAFFEE"
+        },
+        "subtitle": {
+          "en": "Matcha, Tea & Chocolate",
+          "de": "Matcha, Tee & Schokolade"
+        },
+        "items": [
+          {
+            "id": "matcha-latte",
+            "name": {
+              "en": "Matcha Latte",
+              "de": "Matcha Latte"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 580,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "hot-chocolate",
+            "name": {
+              "en": "Hot Chocolate",
+              "de": "Heiße Schokolade"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 480,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "tea",
+            "name": {
+              "en": "Tea",
+              "de": "Tee"
+            },
+            "note": {
+              "en": "ask what is available today",
+              "de": "frag nach der heutigen Auswahl"
+            },
+            "price": {
+              "amountMinor": 380,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "id": "something-special",
+        "title": {
+          "en": "SOMETHING SPECIAL",
+          "de": "ETWAS BESONDERES"
+        },
+        "subtitle": {
+          "en": "Small Things Worth Asking For",
+          "de": "Kleine Besonderheiten"
+        },
+        "items": [
+          {
+            "id": "lavender-raf",
+            "name": {
+              "en": "Lavender RAF",
+              "de": "Lavendel RAF"
+            },
+            "note": {
+              "en": "soft, floral, sweet",
+              "de": "sanft, floral, süß"
+            },
+            "price": {
+              "amountMinor": 580,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "nutty-coffee",
+            "name": {
+              "en": "Nutty Coffee",
+              "de": "Nussiger Kaffee"
+            },
+            "note": {
+              "en": "warm, round, comforting",
+              "de": "warm, rund, wohltuend"
+            },
+            "price": {
+              "amountMinor": 580,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "affogato",
+            "name": {
+              "en": "Affogato",
+              "de": "Affogato"
+            },
+            "note": {
+              "en": "espresso over vanilla ice cream",
+              "de": "Espresso über Vanilleeis"
+            },
+            "price": {
+              "amountMinor": 450,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "iced-matcha-latte",
+            "name": {
+              "en": "Iced Matcha Latte",
+              "de": "Iced Matcha Latte"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 580,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "id": "pastries",
+        "title": {
+          "en": "PASTRIES",
+          "de": "GEBÄCK"
+        },
+        "subtitle": {
+          "en": "Baked & Small",
+          "de": "Gebacken & Klein"
+        },
+        "items": [
+          {
+            "id": "butter-croissant",
+            "name": {
+              "en": "Butter Croissant",
+              "de": "Buttercroissant"
+            },
+            "note": {
+              "en": "when available",
+              "de": "wenn verfügbar"
+            },
+            "price": {
+              "amountMinor": 290,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "banana-bread",
+            "name": {
+              "en": "Banana Bread",
+              "de": "Bananenbrot"
+            },
+            "note": {
+              "en": "when available",
+              "de": "wenn verfügbar"
+            },
+            "price": {
+              "amountMinor": 380,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "seasonal-pastry",
+            "name": {
+              "en": "Seasonal Pastry",
+              "de": "Saisonales Gebäck"
+            },
+            "note": {
+              "en": "ask what is fresh today",
+              "de": "frag, was heute frisch ist"
+            },
+            "price": {
+              "amountMinor": 380,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          }
+        ]
+      }
+    ],
+    "noteEyebrow": {
+      "en": "A NOTE",
+      "de": "EIN HINWEIS"
+    },
+    "noteText": {
+      "en": "Some drinks and pastries change with the season or availability. Ask when you order if something sounds like your mood today.",
+      "de": "Einige Getränke und Gebäckstücke wechseln je nach Saison oder Verfügbarkeit. Frag bei der Bestellung nach, wenn etwas zu deiner Stimmung heute passt."
+    }
+  },
+  "today": {
+    "mood": {
+      "eyebrow": {
+        "en": "TODAY’S MOOD",
+        "de": "HEUTIGE STIMMUNG"
+      },
+      "title": {
+        "en": "Slow morning, soft light.",
+        "de": "Ruhiger Morgen, sanftes Licht."
+      },
+      "text": {
+        "en": "No rush. Just a good cup, the radiator humming, and the city walking past the window.",
+        "de": "Keine Eile. Nur eine gute Tasse, das Summen der Heizung und die Stadt, die am Fenster vorbeizieht."
+      },
+      "signature": {
+        "en": "for today",
+        "de": "für heute"
+      }
+    },
+    "offer": {
+      "isEnabled": true,
+      "activeFrom": "2026-07-15",
+      "activeThrough": "2026-07-15",
+      "eyebrow": {
+        "en": "TODAY’S LITTLE EXTRA",
+        "de": "DAS KLEINE EXTRA HEUTE"
+      },
+      "headline": {
+        "en": "10% of price",
+        "de": "10 % des Preises"
+      },
+      "highlight": {
+        "en": "is on us.",
+        "de": "gehen auf uns."
+      },
+      "text": {
+        "en": "With any cappuccino or flat white. Show this note when you order.",
+        "de": "Zu jedem Cappuccino oder Flat White. Zeig diesen Hinweis bei der Bestellung."
+      },
+      "validityLabel": {
+        "en": "today only",
+        "de": "nur heute"
+      },
+      "footer": {
+        "en": "Valid today · Subject to availability",
+        "de": "Heute gültig · Solange verfügbar"
+      },
+      "buttonTitle": {
+        "en": "Show today’s note",
+        "de": "Heutigen Hinweis zeigen"
+      },
+      "passFooter": {
+        "en": "Valid today only · No QR, no scan, just a kind note.",
+        "de": "Nur heute gültig · Kein QR-Code, kein Scan, nur ein freundlicher Hinweis."
+      }
+    }
+  },
+  "dailyFilter": {
+    "eyebrow": {
+      "en": "TODAY ON FILTER",
+      "de": "HEUTE IM FILTER"
+    },
+    "title": {
+      "en": "LePèlerin House Filter",
+      "de": "LePèlerin Hausfilter"
+    },
+    "notes": {
+      "en": "Chocolate · Hazelnut · Round body",
+      "de": "Schokolade · Haselnuss · Runder Körper"
+    },
+    "description": {
+      "en": "Chocolate · hazelnut · round body. Brewed fresh through the day.",
+      "de": "Schokolade · Haselnuss · runder Körper. Den ganzen Tag frisch gebrüht."
+    },
+    "symbol": "m.",
+    "availabilityLabel": {
+      "en": "freshly brewed",
+      "de": "frisch gebrüht"
+    }
+  },
+  "beans": {
+    "intro": {
+      "eyebrow": {
+        "en": "BEANS FOR HOME",
+        "de": "BOHNEN FÜR ZU HAUSE"
+      },
+      "title": {
+        "en": "Take a bag home, keep us on your shelf.",
+        "de": "Nimm eine Tüte mit nach Hause und behalte uns im Regal."
+      },
+      "text": {
+        "en": "Our house beans are selected for everyday brewing — balanced, comforting and easy to enjoy at home.",
+        "de": "Unsere Hausbohnen sind für den täglichen Genuss ausgewählt — ausgewogen, wohltuend und unkompliziert zu Hause zuzubereiten."
+      }
+    },
+    "houseBeans": {
+      "eyebrow": {
+        "en": "HOUSE BEANS",
+        "de": "HAUSBOHNEN"
+      },
+      "title": {
+        "en": "One roast, made to travel well.",
+        "de": "Eine Röstung, gemacht für unterwegs."
+      },
+      "text": {
+        "en": "Selected for everyday drinking: sweet, balanced, low in harshness and comfortable in espresso, milk drinks and filter.",
+        "de": "Für jeden Tag ausgewählt: süß, ausgewogen, mild und angenehm als Espresso, im Milchgetränk oder als Filterkaffee."
+      },
+      "brewMethods": [
+        {
+          "id": "espresso",
+          "label": {
+            "en": "Espresso",
+            "de": "Espresso"
+          }
+        },
+        {
+          "id": "milk-drinks",
+          "label": {
+            "en": "Milk drinks",
+            "de": "Milchgetränke"
+          }
+        },
+        {
+          "id": "filter",
+          "label": {
+            "en": "Filter",
+            "de": "Filter"
+          }
+        }
+      ]
+    },
+    "sizesEyebrow": {
+      "en": "AVAILABLE SIZES",
+      "de": "VERFÜGBARE GRÖSSEN"
+    },
+    "sizes": [
+      {
+        "id": "160g",
+        "label": {
+          "en": "160g",
+          "de": "160 g"
+        },
+        "description": {
+          "en": "for trying something new",
+          "de": "um etwas Neues zu probieren"
+        }
+      },
+      {
+        "id": "250g",
+        "label": {
+          "en": "250g",
+          "de": "250 g"
+        },
+        "description": {
+          "en": "for your everyday shelf",
+          "de": "für dein tägliches Kaffeeregal"
+        }
+      },
+      {
+        "id": "office",
+        "label": {
+          "en": "Office",
+          "de": "Büro"
+        },
+        "description": {
+          "en": "for teams and office setups",
+          "de": "für Teams und Büros"
+        }
+      }
+    ],
+    "wholeBeanNote": {
+      "eyebrow": {
+        "en": "WHOLE BEANS ONLY",
+        "de": "NUR GANZE BOHNEN"
+      },
+      "text": {
+        "en": "We sell our beans whole, not ground. Aroma disappears quickly after grinding, so the best cup usually starts right before brewing.",
+        "de": "Wir verkaufen unsere Bohnen im Ganzen, nicht gemahlen. Nach dem Mahlen verfliegt das Aroma schnell, deshalb beginnt die beste Tasse meist direkt vor dem Brühen."
+      },
+      "signature": {
+        "en": "Grind fresh. Always.",
+        "de": "Immer frisch mahlen."
+      }
+    },
+    "shopButton": {
+      "title": {
+        "en": "Open online shop",
+        "de": "Onlineshop öffnen"
+      },
+      "url": "https://lepelerin.de"
+    }
+  },
+  "openingHours": {
+    "timeZone": "Europe/Berlin",
+    "regular": {
+      "monday": [
+        {
+          "id": "monday-primary",
+          "opens": "08:30",
+          "closes": "16:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "id": "tuesday-primary",
+          "opens": "08:30",
+          "closes": "16:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "id": "wednesday-primary",
+          "opens": "08:30",
+          "closes": "16:00"
+        }
+      ],
+      "thursday": [
+        {
+          "id": "thursday-primary",
+          "opens": "08:30",
+          "closes": "16:00"
+        }
+      ],
+      "friday": [
+        {
+          "id": "friday-primary",
+          "opens": "08:30",
+          "closes": "16:00"
+        }
+      ],
+      "saturday": [],
+      "sunday": []
+    },
+    "exceptions": [],
+    "emergencyClosure": null
+  }
+}
