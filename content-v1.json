@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-15T10:30:00Z",
-  "publishedAt": "2026-07-15T10:30:00Z",
+  "revision": "2026-07-20T14:23:26.928Z",
+  "publishedAt": "2026-07-20T14:23:26.928Z",
   "supportedLocales": [
     "en",
     "de"
@@ -387,12 +387,12 @@
       "activeFrom": "2026-07-15",
       "activeThrough": "2026-07-15",
       "eyebrow": {
-        "en": "TODAY’S LITTLE EXTRA",
+        "en": "TEST! ",
         "de": "DAS KLEINE EXTRA HEUTE"
       },
       "headline": {
-        "en": "10% of price",
-        "de": "10 % des Preises"
+        "en": "20% of price",
+        "de": "20 % des Preises"
       },
       "highlight": {
         "en": "is on us.",
