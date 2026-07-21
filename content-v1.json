@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-20T14:23:26.928Z",
-  "publishedAt": "2026-07-20T14:23:26.928Z",
+  "revision": "2026-07-21T10:52:39.825Z",
+  "publishedAt": "2026-07-21T10:52:39.825Z",
   "supportedLocales": [
     "en",
     "de"
@@ -384,8 +384,8 @@
     },
     "offer": {
       "isEnabled": true,
-      "activeFrom": "2026-07-15",
-      "activeThrough": "2026-07-15",
+      "activeFrom": "2026-07-21",
+      "activeThrough": "2026-07-21",
       "eyebrow": {
         "en": "TEST! ",
         "de": "DAS KLEINE EXTRA HEUTE"
