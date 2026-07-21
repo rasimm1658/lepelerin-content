@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-21T10:52:39.825Z",
-  "publishedAt": "2026-07-21T10:52:39.825Z",
+  "revision": "2026-07-21T11:50:58.117Z",
+  "publishedAt": "2026-07-21T11:50:58.117Z",
   "supportedLocales": [
     "en",
     "de"
@@ -437,7 +437,7 @@
       "en": "Chocolate · hazelnut · round body. Brewed fresh through the day.",
       "de": "Schokolade · Haselnuss · runder Körper. Den ganzen Tag frisch gebrüht."
     },
-    "symbol": "m.",
+    "symbol": "è",
     "availabilityLabel": {
       "en": "freshly brewed",
       "de": "frisch gebrüht"
