@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-21T11:50:58.117Z",
-  "publishedAt": "2026-07-21T11:50:58.117Z",
+  "revision": "2026-07-22T15:43:47.516Z",
+  "publishedAt": "2026-07-22T15:43:47.516Z",
   "supportedLocales": [
     "en",
     "de"
@@ -31,12 +31,12 @@
           {
             "id": "espresso",
             "name": {
-              "en": "Espresso",
+              "en": "Espresso TEST",
               "de": "Espresso"
             },
             "note": null,
             "price": {
-              "amountMinor": 310,
+              "amountMinor": 700,
               "currency": "EUR"
             },
             "isAvailable": true
