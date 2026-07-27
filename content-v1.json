@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-27T13:04:34.159Z",
-  "publishedAt": "2026-07-27T13:04:34.159Z",
+  "revision": "2026-07-27T14:36:22.358Z",
+  "publishedAt": "2026-07-27T14:36:22.358Z",
   "supportedLocales": [
     "en",
     "de"
@@ -570,7 +570,7 @@
         {
           "id": "tuesday-primary",
           "opens": "08:30",
-          "closes": "16:00"
+          "closes": "15:00"
         }
       ],
       "wednesday": [
@@ -599,8 +599,8 @@
     },
     "exceptions": [],
     "emergencyClosure": {
-      "startsAt": "2026-07-27T14:45:00+02:00",
-      "endsAt": "2026-07-27T15:00:00+02:00",
+      "startsAt": "2026-07-28T10:00:00+02:00",
+      "endsAt": "2026-07-28T16:00:00+02:00",
       "message": {
         "en": "Temporarily closed.",
         "de": "Vorübergehend geschlossen."
