@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-22T16:20:11.721Z",
-  "publishedAt": "2026-07-22T16:20:11.721Z",
+  "revision": "2026-07-27T12:12:46.220Z",
+  "publishedAt": "2026-07-27T12:12:46.220Z",
   "supportedLocales": [
     "en",
     "de"
@@ -598,6 +598,13 @@
       "sunday": []
     },
     "exceptions": [],
-    "emergencyClosure": null
+    "emergencyClosure": {
+      "startsAt": "2026-07-27T14:45:00+02:00",
+      "endsAt": "2026-07-27T15:00:00+02:00",
+      "message": {
+        "en": "Temporarily closed.",
+        "de": "Vorübergehend geschlossen."
+      }
+    }
   }
 }
