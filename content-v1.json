@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-27T14:54:10.728Z",
-  "publishedAt": "2026-07-27T14:54:10.728Z",
+  "revision": "2026-07-27T14:55:50.263Z",
+  "publishedAt": "2026-07-27T14:55:50.263Z",
   "supportedLocales": [
     "en",
     "de"
@@ -563,7 +563,7 @@
         {
           "id": "monday-primary",
           "opens": "08:30",
-          "closes": "16:00"
+          "closes": "18:00"
         }
       ],
       "tuesday": [
