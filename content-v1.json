@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-27T14:36:22.358Z",
-  "publishedAt": "2026-07-27T14:36:22.358Z",
+  "revision": "2026-07-27T14:54:10.728Z",
+  "publishedAt": "2026-07-27T14:54:10.728Z",
   "supportedLocales": [
     "en",
     "de"
@@ -597,7 +597,18 @@
       "saturday": [],
       "sunday": []
     },
-    "exceptions": [],
+    "exceptions": [
+      {
+        "id": "date-change-14d4d35d-d76a-4db2-b860-a378826d778e",
+        "date": "2026-07-29",
+        "type": "closed",
+        "label": {
+          "en": "Special schedule",
+          "de": "Sonderöffnungszeiten"
+        },
+        "intervals": []
+      }
+    ],
     "emergencyClosure": {
       "startsAt": "2026-07-28T10:00:00+02:00",
       "endsAt": "2026-07-28T16:00:00+02:00",
