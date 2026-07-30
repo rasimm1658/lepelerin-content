@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-30T11:24:16.044Z",
-  "publishedAt": "2026-07-30T11:24:16.044Z",
+  "revision": "2026-07-30T11:55:32.493Z",
+  "publishedAt": "2026-07-30T11:55:32.493Z",
   "supportedLocales": [
     "en",
     "de"
@@ -387,7 +387,7 @@
       "activeFrom": "2026-07-30",
       "activeThrough": "2026-07-31",
       "eyebrow": {
-        "en": "TEST! ",
+        "en": "TODAY's little SOMETHING",
         "de": "DAS KLEINE EXTRA HEUTE"
       },
       "headline": {
