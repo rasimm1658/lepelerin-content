@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-30T12:14:13.703Z",
-  "publishedAt": "2026-07-30T12:14:13.703Z",
+  "revision": "2026-07-30T12:26:26.268Z",
+  "publishedAt": "2026-07-30T12:26:26.268Z",
   "supportedLocales": [
     "en",
     "de"
@@ -387,7 +387,7 @@
       "activeFrom": "2026-07-30",
       "activeThrough": "2026-07-31",
       "eyebrow": {
-        "en": "TODAY's little SOMETHING ",
+        "en": "Atelier bounded verification · 2026-07-30",
         "de": "DAS KLEINE EXTRA HEUTE"
       },
       "headline": {
