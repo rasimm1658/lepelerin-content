@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-30T14:02:27.018Z",
-  "publishedAt": "2026-07-30T14:02:27.018Z",
+  "revision": "2026-07-30T14:02:28.775Z",
+  "publishedAt": "2026-07-30T14:02:28.775Z",
   "supportedLocales": [
     "en",
     "de"
@@ -426,7 +426,7 @@
       "de": "HEUTE IM FILTER"
     },
     "title": {
-      "en": "LePèlerin House Filter [Atelier verification 2026-07-30]",
+      "en": "LePèlerin House Filter",
       "de": "LePèlerin Hausfilter"
     },
     "notes": {
