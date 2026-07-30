@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-30T12:26:26.268Z",
-  "publishedAt": "2026-07-30T12:26:26.268Z",
+  "revision": "2026-07-30T12:30:36.036Z",
+  "publishedAt": "2026-07-30T12:30:36.036Z",
   "supportedLocales": [
     "en",
     "de"
@@ -387,15 +387,15 @@
       "activeFrom": "2026-07-30",
       "activeThrough": "2026-07-31",
       "eyebrow": {
-        "en": "Atelier bounded verification · 2026-07-30",
+        "en": "Today's little something! 😍",
         "de": "DAS KLEINE EXTRA HEUTE"
       },
       "headline": {
-        "en": "25% of price ",
+        "en": "20% of price ",
         "de": "20 % des Preises"
       },
       "highlight": {
-        "en": "is on us. 🏆",
+        "en": "is on us. ",
         "de": "gehen auf uns."
       },
       "text": {
