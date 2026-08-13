@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-07-30T14:08:44.018Z",
-  "publishedAt": "2026-07-30T14:08:44.018Z",
+  "revision": "2026-08-13T13:56:50.766Z",
+  "publishedAt": "2026-08-13T13:56:50.766Z",
   "supportedLocales": [
     "en",
     "de"
@@ -384,8 +384,8 @@
     },
     "offer": {
       "isEnabled": true,
-      "activeFrom": "2026-07-30",
-      "activeThrough": "2026-07-31",
+      "activeFrom": "2026-08-13",
+      "activeThrough": "2026-08-31",
       "eyebrow": {
         "en": "Today's little something! 😍",
         "de": "DAS KLEINE EXTRA HEUTE"
