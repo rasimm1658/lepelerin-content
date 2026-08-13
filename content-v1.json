@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-13T13:56:50.766Z",
-  "publishedAt": "2026-08-13T13:56:50.766Z",
+  "revision": "2026-08-13T13:58:21.610Z",
+  "publishedAt": "2026-08-13T13:58:21.610Z",
   "supportedLocales": [
     "en",
     "de"
@@ -370,7 +370,7 @@
         "de": "HEUTIGE STIMMUNG"
       },
       "title": {
-        "en": "Smile .. and get one back! 😊",
+        "en": "Smile .. and get one back! 🫶",
         "de": "Ruhiger Morgen, sanftes Licht."
       },
       "text": {
