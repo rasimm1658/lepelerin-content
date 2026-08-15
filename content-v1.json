@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-15T10:31:26.073Z",
-  "publishedAt": "2026-08-15T10:31:26.073Z",
+  "revision": "2026-08-15T12:34:13.030Z",
+  "publishedAt": "2026-08-15T12:34:13.030Z",
   "supportedLocales": [
     "en",
     "de"
@@ -561,21 +561,25 @@
       "espresso": {
         "title": {
           "en": "The Coffee Behind Our Espresso",
-          "de": "Der Kaffee hinter unserem Espresso"
+          "de": "Unser Espresso zurzeit "
         },
         "subtitle": {
-          "en": "Our coffee for every espresso-based drink.",
-          "de": "Unser Kaffee als Basis für alle Espresso-Getränke."
+          "en": "Deep, warm and quietly smoky.",
+          "de": "Tief, warm und mit einer feinen Rauchnote."
         },
         "description": {
-          "en": "Carefully selected for the espresso at LePèlerin, enjoyed pure or with milk.",
-          "de": "Sorgfältig für den Espresso bei LePèlerin ausgewählt – pur oder mit Milch."
+          "en": "A rich, grounded coffee with notes of roasted nuts, dark cocoa and a gentle smoky finish. Full enough to stand on its own, yet beautifully at home with milk.",
+          "de": "Ein voller, geerdeter Kaffee mit Noten von gerösteten Nüssen, dunklem Kakao und einem fein rauchigen Nachhall. Ausdrucksstark pur und ebenso stimmig mit Milch."
         },
         "flavourNotes": {
-          "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
-          "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
+          "en": "Roasted nuts · dark cocoa · gentle smoke",
+          "de": "Gerösteten Nüssen · dunklem Kakao · feiner Rauchnote"
         },
-        "image": null
+        "image": null,
+        "coffeeName": {
+          "en": "N°01 CINDER",
+          "de": "N°01 CINDER"
+        }
       },
       "dailyFilter": {
         "ref": "dailyFilter"
@@ -603,6 +607,46 @@
     },
     "takeHome": {
       "beans": [
+        {
+          "id": "bean-6b79b8a1-387f-4420-b7c4-efbbbdc22e0d",
+          "available": true,
+          "archived": false,
+          "title": {
+            "en": "Gipfelstürmer Фдеуктфешму ",
+            "de": "Gipfelstürmer Kopie"
+          },
+          "subtitle": {
+            "en": "Montebera espresso coffee · temporary retail draft",
+            "de": "Montebera Espressokaffee · vorläufiger Verkaufsentwurf"
+          },
+          "description": {
+            "en": "A starting retail draft from the known Montebera range. Confirm launch availability and final customer copy.",
+            "de": "Ein erster Verkaufsentwurf aus dem bekannten Montebera-Sortiment. Verfügbarkeit zum Start und finalen Kundentext bestätigen."
+          },
+          "flavourNotes": {
+            "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
+            "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "package-e0f1add3-7b01-4323-97fe-9d78a1500a92",
+              "weightGrams": 160,
+              "price": {
+                "amountMinor": 1490,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "package-9d5aa13d-41e2-4939-b32e-6df4bc737d8a",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 0,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
         {
           "id": "montebera-gipfelstuermer",
           "available": true,
