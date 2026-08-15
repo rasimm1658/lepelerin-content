@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-13T13:58:21.610Z",
-  "publishedAt": "2026-08-13T13:58:21.610Z",
+  "revision": "2026-08-15T10:31:26.073Z",
+  "publishedAt": "2026-08-15T10:31:26.073Z",
   "supportedLocales": [
     "en",
     "de"
@@ -553,6 +553,99 @@
         "en": "Open online shop",
         "de": "Onlineshop öffnen"
       },
+      "url": "https://lepelerin.de"
+    }
+  },
+  "beansV2": {
+    "currentlyServing": {
+      "espresso": {
+        "title": {
+          "en": "The Coffee Behind Our Espresso",
+          "de": "Der Kaffee hinter unserem Espresso"
+        },
+        "subtitle": {
+          "en": "Our coffee for every espresso-based drink.",
+          "de": "Unser Kaffee als Basis für alle Espresso-Getränke."
+        },
+        "description": {
+          "en": "Carefully selected for the espresso at LePèlerin, enjoyed pure or with milk.",
+          "de": "Sorgfältig für den Espresso bei LePèlerin ausgewählt – pur oder mit Milch."
+        },
+        "flavourNotes": {
+          "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
+          "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
+        },
+        "image": null
+      },
+      "dailyFilter": {
+        "ref": "dailyFilter"
+      },
+      "extraordinaryReserve": {
+        "title": {
+          "en": "Extraordinary Reserve",
+          "de": "Extraordinary Reserve"
+        },
+        "subtitle": {
+          "en": "An exceptional coffee experience.",
+          "de": "Ein außergewöhnliches Kaffeeerlebnis."
+        },
+        "description": {
+          "en": "Brewed individually to order.",
+          "de": "Einzeln auf Bestellung gebrüht."
+        },
+        "flavourNotes": {
+          "en": "TEMPORARY DRAFT — exceptional flavour notes to be confirmed",
+          "de": "VORLÄUFIGER ENTWURF — außergewöhnliche Geschmacksnoten noch zu bestätigen"
+        },
+        "image": null,
+        "enabled": true
+      }
+    },
+    "takeHome": {
+      "beans": [
+        {
+          "id": "montebera-gipfelstuermer",
+          "available": true,
+          "archived": false,
+          "title": {
+            "en": "Gipfelstürmer",
+            "de": "Gipfelstürmer"
+          },
+          "subtitle": {
+            "en": "Montebera espresso coffee · temporary retail draft",
+            "de": "Montebera Espressokaffee · vorläufiger Verkaufsentwurf"
+          },
+          "description": {
+            "en": "A starting retail draft from the known Montebera range. Confirm launch availability and final customer copy.",
+            "de": "Ein erster Verkaufsentwurf aus dem bekannten Montebera-Sortiment. Verfügbarkeit zum Start und finalen Kundentext bestätigen."
+          },
+          "flavourNotes": {
+            "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
+            "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "montebera-gipfelstuermer-160g",
+              "weightGrams": 160,
+              "price": {
+                "amountMinor": 1490,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "montebera-gipfelstuermer-250g",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 2190,
+                "currency": "EUR"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "shop": {
       "url": "https://lepelerin.de"
     }
   },
