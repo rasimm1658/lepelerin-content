@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-16T14:27:25.947Z",
-  "publishedAt": "2026-08-16T14:27:25.947Z",
+  "revision": "2026-08-16T15:26:05.090Z",
+  "publishedAt": "2026-08-16T15:26:05.090Z",
   "supportedLocales": [
     "en",
     "de"
@@ -601,8 +601,19 @@
           "en": "TEMPORARY DRAFT — exceptional flavour notes to be confirmed",
           "de": "VORLÄUFIGER ENTWURF — außergewöhnliche Geschmacksnoten noch zu bestätigen"
         },
-        "image": null,
-        "enabled": true
+        "image": {
+          "url": "https://theholycross.de/products/the-pink-paradisi-kenia?variant=52916310081872",
+          "alt": {
+            "en": "Coffee",
+            "de": "Kaffee"
+          }
+        },
+        "enabled": false,
+        "servingMl": 180,
+        "price": {
+          "amountMinor": 354,
+          "currency": "EUR"
+        }
       }
     },
     "takeHome": {
