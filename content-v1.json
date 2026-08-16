@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-16T15:26:05.090Z",
-  "publishedAt": "2026-08-16T15:26:05.090Z",
+  "revision": "2026-08-16T15:53:11.125Z",
+  "publishedAt": "2026-08-16T15:53:11.125Z",
   "supportedLocales": [
     "en",
     "de"
@@ -598,8 +598,8 @@
           "de": "Einzeln auf Bestellung gebrüht."
         },
         "flavourNotes": {
-          "en": "TEMPORARY DRAFT — exceptional flavour notes to be confirmed",
-          "de": "VORLÄUFIGER ENTWURF — außergewöhnliche Geschmacksnoten noch zu bestätigen"
+          "en": "Exceptionally spicy and complex notes developing over time. Light wooden touch. ",
+          "de": "Außergewöhnlich würzige und komplexe Noten, die sich im Laufe der Zeit entwickeln. Leichter Holz-Touch."
         },
         "image": {
           "url": "https://theholycross.de/products/the-pink-paradisi-kenia?variant=52916310081872",
@@ -608,10 +608,14 @@
             "de": "Kaffee"
           }
         },
-        "enabled": false,
+        "enabled": true,
+        "coffeeName": {
+          "en": "SUMATRA by Montebera ",
+          "de": "SUMATRA von Montebera "
+        },
         "servingMl": 180,
         "price": {
-          "amountMinor": 354,
+          "amountMinor": 850,
           "currency": "EUR"
         }
       }
@@ -659,6 +663,38 @@
           ]
         },
         {
+          "id": "bean-09f20a9c-0e74-4a97-87e2-bb8516b96393",
+          "available": true,
+          "archived": true,
+          "title": {
+            "en": "New bean",
+            "de": "Neue Bohne"
+          },
+          "subtitle": {
+            "en": "Add subtitle",
+            "de": "Untertitel ergänzen"
+          },
+          "description": {
+            "en": "Add description",
+            "de": "Beschreibung ergänzen"
+          },
+          "flavourNotes": {
+            "en": "Add flavour notes",
+            "de": "Geschmacksnoten ergänzen"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "package-9e5c1236-266f-4dab-b9f0-be8506323022",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 0,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
           "id": "montebera-gipfelstuermer",
           "available": true,
           "archived": false,
@@ -678,7 +714,13 @@
             "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
             "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
           },
-          "image": null,
+          "image": {
+            "url": "https://www.montebera-kaffee.de/onlineshop#!/Gipfelstürmer-Kaffeemischung/p/139356309",
+            "alt": {
+              "en": "Coffee",
+              "de": "Kaffee"
+            }
+          },
           "packages": [
             {
               "id": "montebera-gipfelstuermer-160g",
