@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-15T12:34:13.030Z",
-  "publishedAt": "2026-08-15T12:34:13.030Z",
+  "revision": "2026-08-16T14:27:25.947Z",
+  "publishedAt": "2026-08-16T14:27:25.947Z",
   "supportedLocales": [
     "en",
     "de"
@@ -426,16 +426,16 @@
       "de": "HEUTE IM FILTER"
     },
     "title": {
-      "en": "LePèlerin House Filter 🏆",
-      "de": "LePèlerin Hausfilter"
+      "en": "Pink Paradisi · Kenya",
+      "de": "Pink Paradisi · Kenya"
     },
     "notes": {
-      "en": "Chocolate · Hazelnut · Round body",
-      "de": "Schokolade · Haselnuss · Runder Körper"
+      "en": "Grapefruit · red fruits · floral",
+      "de": "Grapefruit · rote Früchte · floral"
     },
     "description": {
-      "en": "Chocolate · hazelnut · round body. Brewed fresh through the day.",
-      "de": "Schokolade · Haselnuss · runder Körper. Den ganzen Tag frisch gebrüht."
+      "en": "Bright and precise, with juicy citrus, red fruit and a clean floral finish. Freshly brewed through the day.",
+      "de": "Klar und lebendig, mit saftiger Zitrusfrucht, roten Früchten und einem feinen floralen Nachhall. Den ganzen Tag frisch gebrüht."
     },
     "symbol": "è",
     "availabilityLabel": {
