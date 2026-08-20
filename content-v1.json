@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-16T15:53:11.125Z",
-  "publishedAt": "2026-08-16T15:53:11.125Z",
+  "revision": "2026-08-20T18:45:45.131Z",
+  "publishedAt": "2026-08-20T18:45:45.131Z",
   "supportedLocales": [
     "en",
     "de"
@@ -610,7 +610,7 @@
         },
         "enabled": true,
         "coffeeName": {
-          "en": "SUMATRA by Montebera ",
+          "en": "SUMATRA by Montebera !",
           "de": "SUMATRA von Montebera "
         },
         "servingMl": 180,
@@ -626,9 +626,11 @@
           "id": "bean-6b79b8a1-387f-4420-b7c4-efbbbdc22e0d",
           "available": true,
           "archived": false,
+          "shelfGroup": "guest-rarity",
+          "shelfStatus": "few-left",
           "title": {
-            "en": "Gipfelstürmer Фдеуктфешму ",
-            "de": "Gipfelstürmer Kopie"
+            "en": "Gipfelstürmer by MONTEBERA",
+            "de": "Gipfelstürmer von MONTEBERA"
           },
           "subtitle": {
             "en": "Montebera espresso coffee · temporary retail draft",
@@ -665,22 +667,24 @@
         {
           "id": "bean-09f20a9c-0e74-4a97-87e2-bb8516b96393",
           "available": true,
-          "archived": true,
+          "archived": false,
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "available",
           "title": {
-            "en": "New bean",
-            "de": "Neue Bohne"
+            "en": "N°02 FERAL",
+            "de": "N°02 FERAL"
           },
           "subtitle": {
-            "en": "Add subtitle",
-            "de": "Untertitel ergänzen"
+            "en": "Bold, untamed and unapologetically intense.",
+            "de": "Kraftvoll, ungezähmt und kompromisslos intensiv."
           },
           "description": {
-            "en": "Add description",
-            "de": "Beschreibung ergänzen"
+            "en": "A powerful, full-bodied coffee with notes of roasted nuts and warm spice. Dense and expressive in the cup, with a long, confident finish.",
+            "de": "Ein kraftvoller, vollmundiger Kaffee mit Noten von gerösteten Nüssen und warmer Würze. Dicht und ausdrucksstark in der Tasse, mit einem langen, markanten Nachhall."
           },
           "flavourNotes": {
-            "en": "Add flavour notes",
-            "de": "Geschmacksnoten ergänzen"
+            "en": "Notes of roasted nuts · warm spice · intense finish",
+            "de": "Noten von gerösteten Nüssen · warmer Würze · intensivem Nachhall"
           },
           "image": null,
           "packages": [
@@ -688,7 +692,15 @@
               "id": "package-9e5c1236-266f-4dab-b9f0-be8506323022",
               "weightGrams": 250,
               "price": {
-                "amountMinor": 0,
+                "amountMinor": 1700,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "package-30e3f732-aeb9-4dda-a3ef-b0143f59e0e8",
+              "weightGrams": 300,
+              "price": {
+                "amountMinor": 2100,
                 "currency": "EUR"
               }
             }
@@ -698,29 +710,25 @@
           "id": "montebera-gipfelstuermer",
           "available": true,
           "archived": false,
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "available",
           "title": {
-            "en": "Gipfelstürmer",
-            "de": "Gipfelstürmer"
+            "en": "N°03 UMBRA",
+            "de": "N°03 UMBRA"
           },
           "subtitle": {
-            "en": "Montebera espresso coffee · temporary retail draft",
-            "de": "Montebera Espressokaffee · vorläufiger Verkaufsentwurf"
+            "en": "Dark, deep and quietly composed.",
+            "de": "Dunkel, tief und von ruhiger Intensität."
           },
           "description": {
-            "en": "A starting retail draft from the known Montebera range. Confirm launch availability and final customer copy.",
-            "de": "Ein erster Verkaufsentwurf aus dem bekannten Montebera-Sortiment. Verfügbarkeit zum Start und finalen Kundentext bestätigen."
+            "en": "A deep, full-bodied coffee with notes of dark chocolate and roasted cocoa. Rich and composed, with a long, lingering finish.",
+            "de": "Ein tiefer, vollmundiger Kaffee mit Noten von dunkler Schokolade und geröstetem Kakao. Vielschichtig und ausgewogen, mit einem langen, anhaltenden Nachhall."
           },
           "flavourNotes": {
-            "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
-            "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
+            "en": "Notes of dark chocolate · roasted cocoa · lingering finish",
+            "de": "Noten von dunkler Schokolade · geröstetem Kakao · langem Nachhall"
           },
-          "image": {
-            "url": "https://www.montebera-kaffee.de/onlineshop#!/Gipfelstürmer-Kaffeemischung/p/139356309",
-            "alt": {
-              "en": "Coffee",
-              "de": "Kaffee"
-            }
-          },
+          "image": null,
           "packages": [
             {
               "id": "montebera-gipfelstuermer-160g",
@@ -735,6 +743,100 @@
               "weightGrams": 250,
               "price": {
                 "amountMinor": 2190,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bean-2243fdad-a059-4f8a-9b54-bc6353a473bd",
+          "available": true,
+          "archived": false,
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "available",
+          "title": {
+            "en": "N°04 VELOURS",
+            "de": "N°04 VELOURS"
+          },
+          "subtitle": {
+            "en": "Soft, smooth and effortlessly comforting.",
+            "de": "Weich, sanft und wunderbar ausgewogen."
+          },
+          "description": {
+            "en": "A smooth, elegant coffee with notes of milk chocolate and roasted nuts. Gentle and rounded in the cup, with a soft, creamy finish.",
+            "de": "Ein weicher, eleganter Kaffee mit Noten von Vollmilchschokolade und gerösteten Nüssen. Sanft und rund in der Tasse, mit einem weichen, cremigen Nachhall."
+          },
+          "flavourNotes": {
+            "en": "Notes of milk chocolate · roasted nuts · creamy finish",
+            "de": "Noten von Vollmilchschokolade · gerösteten Nüssen · cremigem Nachhall"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "package-ec6a8d00-ab18-4262-a0bd-331a6759f5ee",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 1600,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "package-d08ede58-8315-42e1-b1ac-d1532e51d926",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 1800,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bean-03832356-987f-4c38-8036-d51543a8584f",
+          "available": true,
+          "archived": false,
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "few-left",
+          "title": {
+            "en": "SUMATRA Single Estate LOT",
+            "de": "SUMATRA Single Estate LOT "
+          },
+          "subtitle": {
+            "en": "SPICY . COMPLEX . WOODY TOUCH AFTER TASTE ",
+            "de": "WÜRZIG. KOMPLEX . HOLZIGE BERÜHRUNG Abgangsnote "
+          },
+          "description": {
+            "en": "Simply, genius ",
+            "de": "Einfach und genial "
+          },
+          "flavourNotes": {
+            "en": "Wood, Spices, Floral ",
+            "de": "Holz, Würze, Floral "
+          },
+          "image": null,
+          "origin": {
+            "country": {
+              "en": "Indonasia ",
+              "de": "Indonesien"
+            },
+            "region": {
+              "en": "SUMATRA Island ",
+              "de": "SUMATRA Insel"
+            },
+            "producer": {
+              "en": "Koh Pan Gang ",
+              "de": "Koh Pan Gang "
+            },
+            "process": {
+              "en": "natural",
+              "de": "naturak"
+            }
+          },
+          "packages": [
+            {
+              "id": "package-09cdbf1f-977b-41c3-b1a8-e62b030a5886",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 0,
                 "currency": "EUR"
               }
             }
