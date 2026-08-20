@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-20T18:45:45.131Z",
-  "publishedAt": "2026-08-20T18:45:45.131Z",
+  "revision": "2026-08-20T19:43:05.282Z",
+  "publishedAt": "2026-08-20T19:43:05.282Z",
   "supportedLocales": [
     "en",
     "de"
@@ -665,6 +665,40 @@
           ]
         },
         {
+          "id": "bean-ee0ef24e-8186-45d2-99ce-e281e6cc67ce",
+          "available": true,
+          "archived": false,
+          "shelfGroup": "guest-rarity",
+          "shelfStatus": "few-left",
+          "title": {
+            "en": "Prierner Koster  by MONTEBERA copy",
+            "de": "Gipfelstürmer von MONTEBERA Kopie"
+          },
+          "subtitle": {
+            "en": "Montebera espresso coffee · temporary retail draft",
+            "de": "Montebera Espressokaffee · vorläufiger Verkaufsentwurf"
+          },
+          "description": {
+            "en": "A starting retail draft from the known Montebera range. Confirm launch availability and final customer copy.",
+            "de": "Ein erster Verkaufsentwurf aus dem bekannten Montebera-Sortiment. Verfügbarkeit zum Start und finalen Kundentext bestätigen."
+          },
+          "flavourNotes": {
+            "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
+            "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "package-738c6e73-0617-409a-bf74-0f084b845a9d",
+              "weightGrams": 160,
+              "price": {
+                "amountMinor": 1490,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
           "id": "bean-09f20a9c-0e74-4a97-87e2-bb8516b96393",
           "available": true,
           "archived": false,
@@ -701,48 +735,6 @@
               "weightGrams": 300,
               "price": {
                 "amountMinor": 2100,
-                "currency": "EUR"
-              }
-            }
-          ]
-        },
-        {
-          "id": "montebera-gipfelstuermer",
-          "available": true,
-          "archived": false,
-          "shelfGroup": "lepelerin-collection",
-          "shelfStatus": "available",
-          "title": {
-            "en": "N°03 UMBRA",
-            "de": "N°03 UMBRA"
-          },
-          "subtitle": {
-            "en": "Dark, deep and quietly composed.",
-            "de": "Dunkel, tief und von ruhiger Intensität."
-          },
-          "description": {
-            "en": "A deep, full-bodied coffee with notes of dark chocolate and roasted cocoa. Rich and composed, with a long, lingering finish.",
-            "de": "Ein tiefer, vollmundiger Kaffee mit Noten von dunkler Schokolade und geröstetem Kakao. Vielschichtig und ausgewogen, mit einem langen, anhaltenden Nachhall."
-          },
-          "flavourNotes": {
-            "en": "Notes of dark chocolate · roasted cocoa · lingering finish",
-            "de": "Noten von dunkler Schokolade · geröstetem Kakao · langem Nachhall"
-          },
-          "image": null,
-          "packages": [
-            {
-              "id": "montebera-gipfelstuermer-160g",
-              "weightGrams": 160,
-              "price": {
-                "amountMinor": 1490,
-                "currency": "EUR"
-              }
-            },
-            {
-              "id": "montebera-gipfelstuermer-250g",
-              "weightGrams": 250,
-              "price": {
-                "amountMinor": 2190,
                 "currency": "EUR"
               }
             }
@@ -795,7 +787,7 @@
           "available": true,
           "archived": false,
           "shelfGroup": "lepelerin-collection",
-          "shelfStatus": "few-left",
+          "shelfStatus": "available",
           "title": {
             "en": "SUMATRA Single Estate LOT",
             "de": "SUMATRA Single Estate LOT "
@@ -837,6 +829,100 @@
               "weightGrams": 250,
               "price": {
                 "amountMinor": 0,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bean-e5ff0c37-5ce5-4fc1-87b6-955a25114fe7",
+          "available": true,
+          "archived": false,
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "available",
+          "title": {
+            "en": "SUMATRA Single Estate LOT copy",
+            "de": "SUMATRA Single Estate LOT  Kopie"
+          },
+          "subtitle": {
+            "en": "SPICY . COMPLEX . WOODY TOUCH AFTER TASTE ",
+            "de": "WÜRZIG. KOMPLEX . HOLZIGE BERÜHRUNG Abgangsnote "
+          },
+          "description": {
+            "en": "Simply, genius ",
+            "de": "Einfach und genial "
+          },
+          "flavourNotes": {
+            "en": "Wood, Spices, Floral ",
+            "de": "Holz, Würze, Floral "
+          },
+          "image": null,
+          "origin": {
+            "country": {
+              "en": "Indonasia ",
+              "de": "Indonesien"
+            },
+            "region": {
+              "en": "SUMATRA Island ",
+              "de": "SUMATRA Insel"
+            },
+            "producer": {
+              "en": "Koh Pan Gang ",
+              "de": "Koh Pan Gang "
+            },
+            "process": {
+              "en": "natural",
+              "de": "naturak"
+            }
+          },
+          "packages": [
+            {
+              "id": "package-24aa8dec-193e-4306-8f69-67ae8ea3d367",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 0,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "id": "montebera-gipfelstuermer",
+          "available": true,
+          "archived": false,
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "available",
+          "title": {
+            "en": "N°03 UMBRA",
+            "de": "N°03 UMBRA"
+          },
+          "subtitle": {
+            "en": "Dark, deep and quietly composed.",
+            "de": "Dunkel, tief und von ruhiger Intensität."
+          },
+          "description": {
+            "en": "A deep, full-bodied coffee with notes of dark chocolate and roasted cocoa. Rich and composed, with a long, lingering finish.",
+            "de": "Ein tiefer, vollmundiger Kaffee mit Noten von dunkler Schokolade und geröstetem Kakao. Vielschichtig und ausgewogen, mit einem langen, anhaltenden Nachhall."
+          },
+          "flavourNotes": {
+            "en": "Notes of dark chocolate · roasted cocoa · lingering finish",
+            "de": "Noten von dunkler Schokolade · geröstetem Kakao · langem Nachhall"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "montebera-gipfelstuermer-160g",
+              "weightGrams": 160,
+              "price": {
+                "amountMinor": 1490,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "montebera-gipfelstuermer-250g",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 2190,
                 "currency": "EUR"
               }
             }
