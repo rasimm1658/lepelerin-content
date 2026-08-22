@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-20T19:43:05.282Z",
-  "publishedAt": "2026-08-20T19:43:05.282Z",
+  "revision": "2026-08-22T09:09:30.496Z",
+  "publishedAt": "2026-08-22T09:09:30.496Z",
   "supportedLocales": [
     "en",
     "de"
@@ -60,10 +60,7 @@
               "en": "Filter coffee",
               "de": "Filterkaffee"
             },
-            "note": {
-              "en": "house filter, freshly brewed",
-              "de": "Hausfilter, frisch gebrüht"
-            },
+            "note": null,
             "price": {
               "amountMinor": 480,
               "currency": "EUR"
