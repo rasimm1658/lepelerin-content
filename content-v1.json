@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-22T09:14:33.159Z",
-  "publishedAt": "2026-08-22T09:14:33.159Z",
+  "revision": "2026-08-22T11:11:41.106Z",
+  "publishedAt": "2026-08-22T11:11:41.106Z",
   "supportedLocales": [
     "en",
     "de"
@@ -28,6 +28,19 @@
           "de": "Pur & Schwarz"
         },
         "items": [
+          {
+            "id": "cold-brew",
+            "name": {
+              "en": "Cold Brew",
+              "de": "Cold Brew"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 700,
+              "currency": "EUR"
+            },
+            "isAvailable": false
+          },
           {
             "id": "espresso",
             "name": {
@@ -63,19 +76,6 @@
             "note": null,
             "price": {
               "amountMinor": 480,
-              "currency": "EUR"
-            },
-            "isAvailable": true
-          },
-          {
-            "id": "cold-brew",
-            "name": {
-              "en": "Cold Brew",
-              "de": "Cold Brew"
-            },
-            "note": null,
-            "price": {
-              "amountMinor": 490,
               "currency": "EUR"
             },
             "isAvailable": true
