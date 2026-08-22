@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-22T09:09:30.496Z",
-  "publishedAt": "2026-08-22T09:09:30.496Z",
+  "revision": "2026-08-22T09:14:33.159Z",
+  "publishedAt": "2026-08-22T09:14:33.159Z",
   "supportedLocales": [
     "en",
     "de"
@@ -974,23 +974,16 @@
     },
     "exceptions": [
       {
-        "id": "date-change-14d4d35d-d76a-4db2-b860-a378826d778e",
-        "date": "2026-07-29",
+        "id": "date-change-04fad813-fb1c-4ffa-bf42-dc3c15a32274",
+        "date": "2026-08-24",
         "type": "closed",
         "label": {
-          "en": "Special schedule",
+          "en": "TESTING NEW FEATURE",
           "de": "Sonderöffnungszeiten"
         },
         "intervals": []
       }
     ],
-    "emergencyClosure": {
-      "startsAt": "2026-07-28T10:00:00+02:00",
-      "endsAt": "2026-07-28T16:00:00+02:00",
-      "message": {
-        "en": "Temporarily closed.",
-        "de": "Vorübergehend geschlossen."
-      }
-    }
+    "emergencyClosure": null
   }
 }
