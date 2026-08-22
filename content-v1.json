@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-22T12:14:26.056Z",
-  "publishedAt": "2026-08-22T12:14:26.056Z",
+  "revision": "2026-08-22T12:15:57.804Z",
+  "publishedAt": "2026-08-22T12:15:57.804Z",
   "supportedLocales": [
     "en",
     "de"
@@ -627,12 +627,12 @@
           "shelfGroup": "guest-rarity",
           "shelfStatus": "few-left",
           "title": {
-            "en": "Gipfelstürmer by MONTEBERA",
-            "de": "Gipfelstürmer von MONTEBERA"
+            "en": "Gipfelstürmer",
+            "de": "Gipfelstürmer"
           },
           "subtitle": {
-            "en": "Montebera espresso coffee · temporary retail draft",
-            "de": "Montebera Espressokaffee · vorläufiger Verkaufsentwurf"
+            "en": "espresso coffee · temporary retail draft",
+            "de": "Espressokaffee · vorläufiger Verkaufsentwurf"
           },
           "description": {
             "en": "A starting retail draft from the known Montebera range. Confirm launch availability and final customer copy.",
@@ -657,40 +657,6 @@
               "weightGrams": 250,
               "price": {
                 "amountMinor": 0,
-                "currency": "EUR"
-              }
-            }
-          ]
-        },
-        {
-          "id": "bean-ee0ef24e-8186-45d2-99ce-e281e6cc67ce",
-          "available": true,
-          "archived": false,
-          "shelfGroup": "guest-rarity",
-          "shelfStatus": "few-left",
-          "title": {
-            "en": "Prierner Koster  by MONTEBERA copy",
-            "de": "Gipfelstürmer von MONTEBERA Kopie"
-          },
-          "subtitle": {
-            "en": "Montebera espresso coffee · temporary retail draft",
-            "de": "Montebera Espressokaffee · vorläufiger Verkaufsentwurf"
-          },
-          "description": {
-            "en": "A starting retail draft from the known Montebera range. Confirm launch availability and final customer copy.",
-            "de": "Ein erster Verkaufsentwurf aus dem bekannten Montebera-Sortiment. Verfügbarkeit zum Start und finalen Kundentext bestätigen."
-          },
-          "flavourNotes": {
-            "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
-            "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
-          },
-          "image": null,
-          "packages": [
-            {
-              "id": "package-738c6e73-0617-409a-bf74-0f084b845a9d",
-              "weightGrams": 160,
-              "price": {
-                "amountMinor": 1490,
                 "currency": "EUR"
               }
             }
@@ -824,58 +790,6 @@
           "packages": [
             {
               "id": "package-09cdbf1f-977b-41c3-b1a8-e62b030a5886",
-              "weightGrams": 250,
-              "price": {
-                "amountMinor": 0,
-                "currency": "EUR"
-              }
-            }
-          ]
-        },
-        {
-          "id": "bean-e5ff0c37-5ce5-4fc1-87b6-955a25114fe7",
-          "available": true,
-          "archived": false,
-          "shelfGroup": "lepelerin-collection",
-          "shelfStatus": "available",
-          "title": {
-            "en": "SUMATRA Single Estate LOT copy",
-            "de": "SUMATRA Single Estate LOT  Kopie"
-          },
-          "subtitle": {
-            "en": "SPICY . COMPLEX . WOODY TOUCH AFTER TASTE ",
-            "de": "WÜRZIG. KOMPLEX . HOLZIGE BERÜHRUNG Abgangsnote "
-          },
-          "description": {
-            "en": "Simply, genius ",
-            "de": "Einfach und genial "
-          },
-          "flavourNotes": {
-            "en": "Wood, Spices, Floral ",
-            "de": "Holz, Würze, Floral "
-          },
-          "image": null,
-          "origin": {
-            "country": {
-              "en": "Indonasia ",
-              "de": "Indonesien"
-            },
-            "region": {
-              "en": "SUMATRA Island ",
-              "de": "SUMATRA Insel"
-            },
-            "producer": {
-              "en": "Koh Pan Gang ",
-              "de": "Koh Pan Gang "
-            },
-            "process": {
-              "en": "natural",
-              "de": "naturak"
-            }
-          },
-          "packages": [
-            {
-              "id": "package-24aa8dec-193e-4306-8f69-67ae8ea3d367",
               "weightGrams": 250,
               "price": {
                 "amountMinor": 0,
