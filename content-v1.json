@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-23T11:01:38.340Z",
-  "publishedAt": "2026-08-23T11:01:38.340Z",
+  "revision": "2026-08-23T11:12:00.960Z",
+  "publishedAt": "2026-08-23T11:12:00.960Z",
   "supportedLocales": [
     "en",
     "de"
@@ -885,13 +885,7 @@
         }
       ],
       "saturday": [],
-      "sunday": [
-        {
-          "id": "sunday-hours-e5cf794a-aabc-4280-8cf2-e160ac062518",
-          "opens": "08:30",
-          "closes": "16:00"
-        }
-      ]
+      "sunday": []
     },
     "exceptions": [],
     "emergencyClosure": null
