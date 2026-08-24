@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-23T11:39:57.617Z",
-  "publishedAt": "2026-08-23T11:39:57.617Z",
+  "revision": "2026-08-24T11:36:32.313Z",
+  "publishedAt": "2026-08-24T11:36:32.313Z",
   "supportedLocales": [
     "en",
     "de"
@@ -384,8 +384,8 @@
       "activeFrom": "2026-08-13",
       "activeThrough": "2026-08-31",
       "eyebrow": {
-        "en": "Today's little something! 😍",
-        "de": "DAS KLEINE EXTRA HEUTE"
+        "en": "",
+        "de": ""
       },
       "headline": {
         "en": "20% of price ",
@@ -396,16 +396,16 @@
         "de": "gehen auf uns."
       },
       "text": {
-        "en": "With any cappuccino or flat white. Show this note when you order.",
-        "de": "Zu jedem Cappuccino oder Flat White. Zeig diesen Hinweis bei der Bestellung."
+        "en": "",
+        "de": ""
       },
       "validityLabel": {
         "en": "today only",
         "de": "nur heute"
       },
       "footer": {
-        "en": "Valid today · Subject to availability",
-        "de": "Heute gültig · Solange verfügbar"
+        "en": "",
+        "de": ""
       },
       "buttonTitle": {
         "en": "Show today’s note",
