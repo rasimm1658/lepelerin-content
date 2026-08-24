@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-24T11:36:32.313Z",
-  "publishedAt": "2026-08-24T11:36:32.313Z",
+  "revision": "2026-08-24T13:54:13.387Z",
+  "publishedAt": "2026-08-24T13:54:13.387Z",
   "supportedLocales": [
     "en",
     "de"
@@ -381,18 +381,18 @@
     },
     "offer": {
       "isEnabled": true,
-      "activeFrom": "2026-08-13",
-      "activeThrough": "2026-08-31",
+      "activeFrom": "2026-08-24",
+      "activeThrough": "2026-08-25",
       "eyebrow": {
         "en": "",
         "de": ""
       },
       "headline": {
-        "en": "20% of price ",
+        "en": "100% of Earning Today ",
         "de": "20 % des Preises"
       },
       "highlight": {
-        "en": "is on us. ",
+        "en": "will go Cocks and Whores! ",
         "de": "gehen auf uns."
       },
       "text": {
@@ -400,7 +400,7 @@
         "de": ""
       },
       "validityLabel": {
-        "en": "today only",
+        "en": "special offer ",
         "de": "nur heute"
       },
       "footer": {
