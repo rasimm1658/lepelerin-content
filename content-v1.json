@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-27T08:04:55.091Z",
-  "publishedAt": "2026-08-27T08:04:55.091Z",
+  "revision": "2026-08-27T08:10:01.355Z",
+  "publishedAt": "2026-08-27T08:10:01.355Z",
   "supportedLocales": [
     "en",
     "de"
@@ -400,20 +400,20 @@
         "de": ""
       },
       "validityLabel": {
-        "en": "special offer ",
-        "de": "nur heute"
+        "en": "",
+        "de": ""
       },
       "footer": {
         "en": "",
         "de": ""
       },
       "buttonTitle": {
-        "en": "Show today’s note",
-        "de": "Heutigen Hinweis zeigen"
+        "en": "show at the bar ",
+        "de": "An der Bar zeigen"
       },
       "passFooter": {
-        "en": "Valid today only · No QR, no scan, just a kind note.",
-        "de": "Nur heute gültig · Kein QR-Code, kein Scan, nur ein freundlicher Hinweis."
+        "en": "",
+        "de": ""
       }
     }
   },
