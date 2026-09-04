@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-08-28T12:35:13.640Z",
-  "publishedAt": "2026-08-28T12:35:13.640Z",
+  "revision": "2026-09-04T13:17:38.727Z",
+  "publishedAt": "2026-09-04T13:17:38.727Z",
   "supportedLocales": [
     "en",
     "de"
@@ -382,7 +382,7 @@
     "offer": {
       "isEnabled": true,
       "activeFrom": "2026-08-27",
-      "activeThrough": "2026-08-30",
+      "activeThrough": "2026-09-30",
       "eyebrow": {
         "en": "",
         "de": ""
