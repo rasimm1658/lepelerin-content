@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-05T09:50:51.571Z",
-  "publishedAt": "2026-09-05T09:50:51.571Z",
+  "revision": "2026-09-05T09:56:53.358Z",
+  "publishedAt": "2026-09-05T09:56:53.358Z",
   "supportedLocales": [
     "en",
     "de"
@@ -870,8 +870,8 @@
         "status": "active",
         "isFeatured": true,
         "eyebrow": {
-          "en": "COFFEE NOTE 01 · whole beans only",
-          "de": "KAFFEE-NOTIZ 01 · nur ganze Bohnen"
+          "en": "COFFEE NOTE 01 · whole beans",
+          "de": "KAFFEE-NOTIZ 01 · ganze Bohnen"
         },
         "title": {
           "en": "Grind fresh. Always.",
@@ -887,8 +887,8 @@
         "status": "active",
         "isFeatured": false,
         "eyebrow": {
-          "en": "FILTER (TESTING CHANGE 2)",
-          "de": "FILTER (TESTING CHANGE 2)"
+          "en": "FILTER",
+          "de": "FILTER"
         },
         "title": {
           "en": "1:16 is a good start.",
