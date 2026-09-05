@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-05T09:56:53.358Z",
-  "publishedAt": "2026-09-05T09:56:53.358Z",
+  "revision": "2026-09-05T15:56:47.642Z",
+  "publishedAt": "2026-09-05T15:56:47.642Z",
   "supportedLocales": [
     "en",
     "de"
@@ -868,7 +868,7 @@
       {
         "id": "grind-fresh",
         "status": "active",
-        "isFeatured": true,
+        "isFeatured": false,
         "eyebrow": {
           "en": "COFFEE NOTE 01 · whole beans",
           "de": "KAFFEE-NOTIZ 01 · ganze Bohnen"
@@ -885,7 +885,7 @@
       {
         "id": "filter-ratio",
         "status": "active",
-        "isFeatured": false,
+        "isFeatured": true,
         "eyebrow": {
           "en": "FILTER",
           "de": "FILTER"
