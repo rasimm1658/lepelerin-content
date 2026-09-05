@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-05T15:56:47.642Z",
-  "publishedAt": "2026-09-05T15:56:47.642Z",
+  "revision": "2026-09-05T15:58:09.295Z",
+  "publishedAt": "2026-09-05T15:58:09.295Z",
   "supportedLocales": [
     "en",
     "de"
@@ -885,7 +885,7 @@
       {
         "id": "filter-ratio",
         "status": "active",
-        "isFeatured": true,
+        "isFeatured": false,
         "eyebrow": {
           "en": "FILTER",
           "de": "FILTER"
@@ -902,7 +902,7 @@
       {
         "id": "taste-bitterness",
         "status": "active",
-        "isFeatured": false,
+        "isFeatured": true,
         "eyebrow": {
           "en": "TASTE",
           "de": "GESCHMACK"
