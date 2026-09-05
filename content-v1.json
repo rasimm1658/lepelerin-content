@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-04T13:43:53.554Z",
-  "publishedAt": "2026-09-04T13:43:53.554Z",
+  "revision": "2026-09-05T09:34:07.628Z",
+  "publishedAt": "2026-09-05T09:34:07.628Z",
   "supportedLocales": [
     "en",
     "de"
@@ -847,6 +847,175 @@
     },
     "shop": {
       "url": "https://lepelerin.de"
+    }
+  },
+  "guide": {
+    "intro": {
+      "eyebrow": {
+        "en": "COFFEE NOTES",
+        "de": "KAFFEE-NOTIZEN"
+      },
+      "title": {
+        "en": "Small things worth knowing.",
+        "de": "Kleine Dinge, die man wissen sollte."
+      },
+      "text": {
+        "en": "Not a coffee textbook. Just a few quiet notes for people who are curious about what is in the cup.",
+        "de": "Kein Lehrbuch über Kaffee. Nur ein paar ruhige Notizen für alle, die neugierig darauf sind, was in ihrer Tasse steckt."
+      }
+    },
+    "notes": [
+      {
+        "id": "grind-fresh",
+        "status": "active",
+        "isFeatured": true,
+        "eyebrow": {
+          "en": "COFFEE NOTE 01 · whole beans only",
+          "de": "KAFFEE-NOTIZ 01 · nur ganze Bohnen"
+        },
+        "title": {
+          "en": "Grind fresh. Always.",
+          "de": "Immer frisch mahlen."
+        },
+        "text": {
+          "en": "Ground coffee loses aroma quickly. That is why we sell our beans whole — and recommend grinding right before brewing.",
+          "de": "Gemahlener Kaffee verliert schnell an Aroma. Deshalb verkaufen wir unsere Bohnen im Ganzen – und empfehlen, sie erst direkt vor dem Brühen zu mahlen."
+        }
+      },
+      {
+        "id": "filter-ratio",
+        "status": "active",
+        "isFeatured": false,
+        "eyebrow": {
+          "en": "FILTER (TESTING CHANGE)",
+          "de": "FILTER (TESTING CHANGE)"
+        },
+        "title": {
+          "en": "1:16 is a good start.",
+          "de": "1:16 ist ein guter Anfang."
+        },
+        "text": {
+          "en": "For filter coffee, try 1g of coffee to about 16g of water. From there, adjust by taste.",
+          "de": "Für Filterkaffee sind 1 g Kaffee auf etwa 16 g Wasser ein guter Anfang. Danach kannst du nach Geschmack anpassen."
+        }
+      },
+      {
+        "id": "taste-bitterness",
+        "status": "active",
+        "isFeatured": false,
+        "eyebrow": {
+          "en": "TASTE",
+          "de": "GESCHMACK"
+        },
+        "title": {
+          "en": "Bitter does not mean strong.",
+          "de": "Bitter bedeutet nicht stark."
+        },
+        "text": {
+          "en": "Bitterness can come from roast, grind size, water, temperature or extraction.",
+          "de": "Bitterkeit kann von Röstung, Mahlgrad, Wasser, Temperatur oder Extraktion kommen."
+        }
+      },
+      {
+        "id": "filter-clarity",
+        "status": "active",
+        "isFeatured": false,
+        "eyebrow": {
+          "en": "FILTER",
+          "de": "FILTER"
+        },
+        "title": {
+          "en": "Filter is not weak.",
+          "de": "Filterkaffee ist nicht schwach."
+        },
+        "text": {
+          "en": "It is not lighter espresso. It is a clearer, longer way to taste the coffee.",
+          "de": "Er ist kein leichterer Espresso. Er lässt den Kaffee klarer und länger schmecken."
+        }
+      },
+      {
+        "id": "milk",
+        "status": "active",
+        "isFeatured": false,
+        "eyebrow": {
+          "en": "MILK",
+          "de": "MILCH"
+        },
+        "title": {
+          "en": "Milk changes everything.",
+          "de": "Milch verändert alles."
+        },
+        "text": {
+          "en": "It changes sweetness, texture and how bitterness feels — not just the colour.",
+          "de": "Sie verändert Süße, Textur und wie wir Bitterkeit wahrnehmen – nicht nur die Farbe."
+        }
+      },
+      {
+        "id": "temperature",
+        "status": "active",
+        "isFeatured": false,
+        "eyebrow": {
+          "en": "TEMPERATURE",
+          "de": "TEMPERATUR"
+        },
+        "title": {
+          "en": "Hotter is not always better.",
+          "de": "Heißer ist nicht immer besser."
+        },
+        "text": {
+          "en": "Very hot water can make coffee taste harsh. A little balance can do more than force.",
+          "de": "Sehr heißes Wasser kann Kaffee harsch schmecken lassen. Etwas Balance bewirkt oft mehr als zu viel Kraft."
+        }
+      },
+      {
+        "id": "tasting-first-sip",
+        "status": "active",
+        "isFeatured": false,
+        "eyebrow": {
+          "en": "TASTING",
+          "de": "PROBIEREN"
+        },
+        "title": {
+          "en": "The first sip lies.",
+          "de": "Der erste Schluck täuscht."
+        },
+        "text": {
+          "en": "Coffee changes as it cools. The second and third sip often tell you more.",
+          "de": "Kaffee verändert sich beim Abkühlen. Der zweite und dritte Schluck verraten oft mehr."
+        }
+      }
+    ],
+    "quickNotesEyebrow": {
+      "en": "QUICK NOTES",
+      "de": "KURZE NOTIZEN"
+    },
+    "orderingPrompt": {
+      "eyebrow": {
+        "en": "WHEN ORDERING",
+        "de": "BEIM BESTELLEN"
+      },
+      "title": {
+        "en": "Curious? Ask us.",
+        "de": "Neugierig? Frag uns."
+      },
+      "text": {
+        "en": "Ask what is on filter, which beans are available, or what might fit your taste today. You do not need to know the right words.",
+        "de": "Frag, welcher Kaffee gerade im Filter ist, welche Bohnen verfügbar sind oder was heute zu deinem Geschmack passen könnte. Du musst die richtigen Begriffe nicht kennen."
+      }
+    },
+    "closingNote": {
+      "eyebrow": {
+        "en": "A SMALL NOTE",
+        "de": "EINE KLEINE NOTIZ"
+      },
+      "title": {
+        "en": "Coffee is not a test.",
+        "de": "Kaffee ist keine Prüfung."
+      },
+      "text": {
+        "en": "Taste first. Learn slowly. Ask when you are curious.",
+        "de": "Erst probieren. Langsam lernen. Fragen, wenn du neugierig bist."
+      }
     }
   },
   "openingHours": {
