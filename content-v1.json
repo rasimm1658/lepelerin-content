@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-05T09:34:07.628Z",
-  "publishedAt": "2026-09-05T09:34:07.628Z",
+  "revision": "2026-09-05T09:50:51.571Z",
+  "publishedAt": "2026-09-05T09:50:51.571Z",
   "supportedLocales": [
     "en",
     "de"
@@ -887,8 +887,8 @@
         "status": "active",
         "isFeatured": false,
         "eyebrow": {
-          "en": "FILTER (TESTING CHANGE)",
-          "de": "FILTER (TESTING CHANGE)"
+          "en": "FILTER (TESTING CHANGE 2)",
+          "de": "FILTER (TESTING CHANGE 2)"
         },
         "title": {
           "en": "1:16 is a good start.",
