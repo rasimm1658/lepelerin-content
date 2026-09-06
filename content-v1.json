@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-05T15:58:09.295Z",
-  "publishedAt": "2026-09-05T15:58:09.295Z",
+  "revision": "2026-09-06T10:39:22.893Z",
+  "publishedAt": "2026-09-06T10:39:22.893Z",
   "supportedLocales": [
     "en",
     "de"
@@ -370,7 +370,7 @@
         "de": "HEUTIGE STIMMUNG"
       },
       "title": {
-        "en": "WELCOME TO ALL NEW USERS! YOU ARE THE BEST 🫶",
+        "en": "Today is 6th of September! ",
         "de": "Ruhiger Morgen, sanftes Licht."
       },
       "text": {
