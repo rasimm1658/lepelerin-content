@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-07T16:11:50.469Z",
-  "publishedAt": "2026-09-07T16:11:50.469Z",
+  "revision": "2026-09-07T16:36:37.960Z",
+  "publishedAt": "2026-09-07T16:36:37.960Z",
   "supportedLocales": [
     "en",
     "de"
@@ -624,31 +624,31 @@
     "takeHome": {
       "beans": [
         {
-          "id": "bean-6b79b8a1-387f-4420-b7c4-efbbbdc22e0d",
+          "id": "bean-lepelerin-cinder",
           "available": true,
           "archived": false,
-          "shelfGroup": "guest-rarity",
-          "shelfStatus": "few-left",
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "available",
           "title": {
-            "en": "Gipfelstürmer",
-            "de": "Gipfelstürmer"
+            "en": "N°01 CINDER",
+            "de": "N°01 CINDER"
           },
           "subtitle": {
-            "en": "espresso coffee · temporary retail draft",
-            "de": "Espressokaffee · vorläufiger Verkaufsentwurf"
+            "en": "Deep, warm and quietly smoky.",
+            "de": "Tief, warm und mit einer feinen Rauchnote."
           },
           "description": {
-            "en": "A starting retail draft from the known Montebera range. Confirm launch availability and final customer copy.",
-            "de": "Ein erster Verkaufsentwurf aus dem bekannten Montebera-Sortiment. Verfügbarkeit zum Start und finalen Kundentext bestätigen."
+            "en": "A rich, grounded coffee with notes of roasted nuts, dark cocoa and a gentle smoky finish. Full enough to stand on its own, yet beautifully at home with milk.",
+            "de": "Ein voller Kaffee mit Noten von gerösteten Nüssen, dunklem Kakao und einem fein rauchigen Nachhall. Ausdrucksstark pur und ebenso stimmig mit Milch."
           },
           "flavourNotes": {
-            "en": "OWNER PLACEHOLDER — add confirmed flavour notes",
-            "de": "PLATZHALTER FÜR INHABER — bestätigte Geschmacksnoten ergänzen"
+            "en": "Notes of roasted nuts · dark cocoa · gentle smoke",
+            "de": "Noten von gerösteten Nüssen · dunklem Kakao · feiner Rauchnote"
           },
           "image": null,
           "packages": [
             {
-              "id": "package-e0f1add3-7b01-4323-97fe-9d78a1500a92",
+              "id": "package-lepelerin-cinder-160g",
               "weightGrams": 160,
               "price": {
                 "amountMinor": 1490,
@@ -656,10 +656,10 @@
               }
             },
             {
-              "id": "package-9d5aa13d-41e2-4939-b32e-6df4bc737d8a",
-              "weightGrams": 250,
+              "id": "package-lepelerin-cinder-300g",
+              "weightGrams": 300,
               "price": {
-                "amountMinor": 0,
+                "amountMinor": 2190,
                 "currency": "EUR"
               }
             }
@@ -681,7 +681,7 @@
           },
           "description": {
             "en": "A powerful, full-bodied coffee with notes of roasted nuts and warm spice. Dense and expressive in the cup, with a long, confident finish.",
-            "de": "Ein kraftvoller, vollmundiger Kaffee mit Noten von gerösteten Nüssen und warmer Würze. Dicht und ausdrucksstark in der Tasse, mit einem langen, markanten Nachhall."
+            "de": "Ein kraftvoller, vollmundiger Kaffee mit Noten von gerösteten Nüssen und warmer Würze. Dicht und ausdrucksstark, mit einem langen, markanten Nachhall."
           },
           "flavourNotes": {
             "en": "Notes of roasted nuts · warm spice · intense finish",
@@ -708,6 +708,48 @@
           ]
         },
         {
+          "id": "montebera-gipfelstuermer",
+          "available": true,
+          "archived": false,
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "available",
+          "title": {
+            "en": "N°03 UMBRA",
+            "de": "N°03 UMBRA"
+          },
+          "subtitle": {
+            "en": "Dark, deep and quietly composed.",
+            "de": "Dunkel, tief und von ruhiger Intensität."
+          },
+          "description": {
+            "en": "A deep, full-bodied coffee with notes of dark chocolate and roasted cocoa. Rich and composed, with a long, lingering finish.",
+            "de": "Ein vollmundiger Kaffee mit Noten von dunkler Schokolade und geröstetem Kakao. Vielschichtig und ruhig, mit einem langen Nachhall."
+          },
+          "flavourNotes": {
+            "en": "Notes of dark chocolate · roasted cocoa · lingering finish",
+            "de": "Noten von dunkler Schokolade · geröstetem Kakao · langem Nachhall"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "montebera-gipfelstuermer-160g",
+              "weightGrams": 160,
+              "price": {
+                "amountMinor": 1490,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "montebera-gipfelstuermer-250g",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 2190,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
           "id": "bean-2243fdad-a059-4f8a-9b54-bc6353a473bd",
           "available": true,
           "archived": false,
@@ -723,7 +765,7 @@
           },
           "description": {
             "en": "A smooth, elegant coffee with notes of milk chocolate and roasted nuts. Gentle and rounded in the cup, with a soft, creamy finish.",
-            "de": "Ein weicher, eleganter Kaffee mit Noten von Vollmilchschokolade und gerösteten Nüssen. Sanft und rund in der Tasse, mit einem weichen, cremigen Nachhall."
+            "de": "Ein weicher, eleganter Kaffee mit Noten von Vollmilchschokolade und gerösteten Nüssen. Sanft und rund, mit einem cremigen Nachhall."
           },
           "flavourNotes": {
             "en": "Notes of milk chocolate · roasted nuts · creamy finish",
@@ -753,7 +795,7 @@
           "id": "bean-03832356-987f-4c38-8036-d51543a8584f",
           "available": true,
           "archived": false,
-          "shelfGroup": "lepelerin-collection",
+          "shelfGroup": "origin",
           "shelfStatus": "available",
           "title": {
             "en": "SUMATRA Single Estate LOT",
@@ -796,48 +838,6 @@
               "weightGrams": 250,
               "price": {
                 "amountMinor": 0,
-                "currency": "EUR"
-              }
-            }
-          ]
-        },
-        {
-          "id": "montebera-gipfelstuermer",
-          "available": true,
-          "archived": false,
-          "shelfGroup": "lepelerin-collection",
-          "shelfStatus": "available",
-          "title": {
-            "en": "N°03 UMBRA",
-            "de": "N°03 UMBRA"
-          },
-          "subtitle": {
-            "en": "Dark, deep and quietly composed.",
-            "de": "Dunkel, tief und von ruhiger Intensität."
-          },
-          "description": {
-            "en": "A deep, full-bodied coffee with notes of dark chocolate and roasted cocoa. Rich and composed, with a long, lingering finish.",
-            "de": "Ein tiefer, vollmundiger Kaffee mit Noten von dunkler Schokolade und geröstetem Kakao. Vielschichtig und ausgewogen, mit einem langen, anhaltenden Nachhall."
-          },
-          "flavourNotes": {
-            "en": "Notes of dark chocolate · roasted cocoa · lingering finish",
-            "de": "Noten von dunkler Schokolade · geröstetem Kakao · langem Nachhall"
-          },
-          "image": null,
-          "packages": [
-            {
-              "id": "montebera-gipfelstuermer-160g",
-              "weightGrams": 160,
-              "price": {
-                "amountMinor": 1490,
-                "currency": "EUR"
-              }
-            },
-            {
-              "id": "montebera-gipfelstuermer-250g",
-              "weightGrams": 250,
-              "price": {
-                "amountMinor": 2190,
                 "currency": "EUR"
               }
             }
