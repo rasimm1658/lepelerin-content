@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-07T16:36:37.960Z",
-  "publishedAt": "2026-09-07T16:36:37.960Z",
+  "revision": "2026-09-07T16:41:22.238Z",
+  "publishedAt": "2026-09-07T16:41:22.238Z",
   "supportedLocales": [
     "en",
     "de"
@@ -602,13 +602,7 @@
           "en": "Exceptionally spicy and complex notes developing over time. Light wooden touch. ",
           "de": "Außergewöhnlich würzige und komplexe Noten, die sich im Laufe der Zeit entwickeln. Leichter Holz-Touch."
         },
-        "image": {
-          "url": "https://theholycross.de/products/the-pink-paradisi-kenia?variant=52916310081872",
-          "alt": {
-            "en": "Coffee",
-            "de": "Kaffee"
-          }
-        },
+        "image": null,
         "enabled": true,
         "coffeeName": {
           "en": "SUMATRA ",
@@ -835,6 +829,40 @@
           "packages": [
             {
               "id": "package-09cdbf1f-977b-41c3-b1a8-e62b030a5886",
+              "weightGrams": 250,
+              "price": {
+                "amountMinor": 0,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bean-eefd0f6a-1dbf-41d4-95e7-6a046fc0f8f5",
+          "available": true,
+          "archived": false,
+          "shelfGroup": "guest-rarity",
+          "shelfStatus": "few-left",
+          "title": {
+            "en": "New bean",
+            "de": "Neue Bohne"
+          },
+          "subtitle": {
+            "en": "Add subtitle",
+            "de": "Untertitel ergänzen"
+          },
+          "description": {
+            "en": "Add description",
+            "de": "Beschreibung ergänzen"
+          },
+          "flavourNotes": {
+            "en": "Add flavour notes",
+            "de": "Geschmacksnoten ergänzen"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "package-f5af7055-1b6b-4a31-8a17-cb107386f13f",
               "weightGrams": 250,
               "price": {
                 "amountMinor": 0,
