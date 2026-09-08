@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-07T16:41:22.238Z",
-  "publishedAt": "2026-09-07T16:41:22.238Z",
+  "revision": "2026-09-08T07:06:08.544Z",
+  "publishedAt": "2026-09-08T07:06:08.544Z",
   "supportedLocales": [
     "en",
     "de"
@@ -570,11 +570,11 @@
         },
         "description": {
           "en": "A rich, grounded coffee with notes of roasted nuts, dark cocoa and a gentle smoky finish. Full enough to stand on its own, yet beautifully at home with milk.",
-          "de": "Ein voller, geerdeter Kaffee mit Noten von gerösteten Nüssen, dunklem Kakao und einem fein rauchigen Nachhall. Ausdrucksstark pur und ebenso stimmig mit Milch."
+          "de": "Ein voller Kaffee mit Noten von gerösteten Nüssen, dunklem Kakao und einem fein rauchigen Nachhall. Ausdrucksstark pur und ebenso stimmig mit Milch."
         },
         "flavourNotes": {
-          "en": "Roasted nuts · dark cocoa · gentle smoke",
-          "de": "Gerösteten Nüssen · dunklem Kakao · feiner Rauchnote"
+          "en": "Notes of roasted nuts · dark cocoa · gentle smoke",
+          "de": "Noten von gerösteten Nüssen · dunklem Kakao · feiner Rauchnote"
         },
         "image": null,
         "coffeeName": {
