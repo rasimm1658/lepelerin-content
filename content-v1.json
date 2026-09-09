@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-08T07:06:08.544Z",
-  "publishedAt": "2026-09-08T07:06:08.544Z",
+  "revision": "2026-09-09T15:17:47.811Z",
+  "publishedAt": "2026-09-09T15:17:47.811Z",
   "supportedLocales": [
     "en",
     "de"
@@ -10,7 +10,7 @@
   "menu": {
     "introTitle": {
       "en": "A short list, made well.",
-      "de": "Eine kleine Auswahl, gut gemacht."
+      "de": "Gut gemacht. Einfach gehalten."
     },
     "introText": {
       "en": "Prices include VAT. Oat milk and other alternatives may add a small extra.",
