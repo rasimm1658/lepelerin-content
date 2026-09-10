@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-10T09:15:40.864Z",
-  "publishedAt": "2026-09-10T09:15:40.864Z",
+  "revision": "2026-09-10T10:29:01.872Z",
+  "publishedAt": "2026-09-10T10:29:01.872Z",
   "supportedLocales": [
     "en",
     "de"
@@ -640,13 +640,13 @@
             "de": "Noten von gerösteten Nüssen · dunklem Kakao · feiner Rauchnote"
           },
           "recommendationProfile": {
-            "espresso": "medium",
+            "espresso": "high",
             "milk": "high",
-            "filter": "medium",
+            "filter": null,
             "chocolateNutty": "high",
             "fruityFloral": "low",
             "intensity": "medium",
-            "adventurousness": "classic"
+            "adventurousness": "balanced"
           },
           "image": null,
           "packages": [
@@ -690,6 +690,13 @@
             "en": "Notes of roasted nuts · warm spice · intense finish",
             "de": "Noten von gerösteten Nüssen · warmer Würze · intensivem Nachhall"
           },
+          "recommendationProfile": {
+            "espresso": "high",
+            "chocolateNutty": "high",
+            "fruityFloral": "low",
+            "intensity": "bold",
+            "adventurousness": "adventurous"
+          },
           "image": null,
           "packages": [
             {
@@ -732,6 +739,13 @@
             "en": "Notes of dark chocolate · roasted cocoa · lingering finish",
             "de": "Noten von dunkler Schokolade · geröstetem Kakao · langem Nachhall"
           },
+          "recommendationProfile": {
+            "espresso": "high",
+            "chocolateNutty": "high",
+            "fruityFloral": "low",
+            "intensity": "bold",
+            "adventurousness": "balanced"
+          },
           "image": null,
           "packages": [
             {
@@ -773,6 +787,13 @@
           "flavourNotes": {
             "en": "Notes of milk chocolate · roasted nuts · creamy finish",
             "de": "Noten von Vollmilchschokolade · gerösteten Nüssen · cremigem Nachhall"
+          },
+          "recommendationProfile": {
+            "espresso": "high",
+            "chocolateNutty": "high",
+            "fruityFloral": "low",
+            "intensity": "soft",
+            "adventurousness": "classic"
           },
           "image": null,
           "packages": [
