@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-09T15:17:47.811Z",
-  "publishedAt": "2026-09-09T15:17:47.811Z",
+  "revision": "2026-09-10T09:15:40.864Z",
+  "publishedAt": "2026-09-10T09:15:40.864Z",
   "supportedLocales": [
     "en",
     "de"
@@ -638,6 +638,15 @@
           "flavourNotes": {
             "en": "Notes of roasted nuts · dark cocoa · gentle smoke",
             "de": "Noten von gerösteten Nüssen · dunklem Kakao · feiner Rauchnote"
+          },
+          "recommendationProfile": {
+            "espresso": "medium",
+            "milk": "high",
+            "filter": "medium",
+            "chocolateNutty": "high",
+            "fruityFloral": "low",
+            "intensity": "medium",
+            "adventurousness": "classic"
           },
           "image": null,
           "packages": [
