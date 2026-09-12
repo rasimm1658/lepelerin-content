@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-12T09:43:25.480Z",
-  "publishedAt": "2026-09-12T09:43:25.480Z",
+  "revision": "2026-09-12T10:19:05.903Z",
+  "publishedAt": "2026-09-12T10:19:05.903Z",
   "supportedLocales": [
     "en",
     "de"
@@ -370,16 +370,16 @@
         "de": "HEUTE BEI UNS"
       },
       "title": {
-        "en": "Today is 6th of September 2026! ",
-        "de": "Ruhiger Morgen, sanftes Licht."
+        "en": "Every step leaves a trace. ",
+        "de": "Jeder Schritt hinterlässt eine Spur. "
       },
       "text": {
-        "en": "No rush. Just a good cup, the radiator humming, and the city walking past the window.",
-        "de": "Keine Eile. Nur eine gute Tasse, das Summen der Heizung und die Stadt, die am Fenster vorbeizieht."
+        "en": "No matter how small.",
+        "de": "Auch der kleinste."
       },
       "signature": {
-        "en": "for today",
-        "de": "für heute"
+        "en": "have a nice day! ",
+        "de": "einen schönen Tag!"
       }
     },
     "offer": {
