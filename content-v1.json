@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-12T11:36:38.196Z",
-  "publishedAt": "2026-09-12T11:36:38.196Z",
+  "revision": "2026-09-12T12:01:00.812Z",
+  "publishedAt": "2026-09-12T12:01:00.812Z",
   "supportedLocales": [
     "en",
     "de"
@@ -427,21 +427,21 @@
       "de": "HEUTE IM FILTER"
     },
     "title": {
-      "en": "HAWAIAN KRONE ",
-      "de": "HAWAIAN KRONE "
+      "en": "Più Elegante",
+      "de": "Più Elegante"
     },
     "notes": {
-      "en": "Grapefruit · red fruits · floral",
-      "de": "Grapefruit · rote Früchte · floral"
+      "en": "earthy · spiced · vanilla",
+      "de": "erdig · würzig · Vanille"
     },
     "description": {
-      "en": "Bright and precise, with juicy citrus, red fruit and a clean floral finish. Freshly brewed through the day.",
-      "de": "Klar und lebendig, mit saftiger Zitrusfrucht, roten Früchten und einem feinen floralen Nachhall. Den ganzen Tag frisch gebrüht."
+      "en": "Round and aromatic, with earthy spice and a soft vanilla finish. 100% Arabica from Uganda, Colombia and Papua New Guinea.",
+      "de": "Rund und aromatisch, mit erdiger Würze und einem weichen Hauch Vanille. 100% Arabica aus Uganda, Kolumbien und Papua-Neuguinea."
     },
     "symbol": "è",
     "availabilityLabel": {
-      "en": "freshly brewed",
-      "de": "frisch gebrüht"
+      "en": "CURRENTLY BREWING",
+      "de": "AKTUELL IM FILTER"
     }
   },
   "beans": {
