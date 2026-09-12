@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-12T10:19:05.903Z",
-  "publishedAt": "2026-09-12T10:19:05.903Z",
+  "revision": "2026-09-12T11:36:38.196Z",
+  "publishedAt": "2026-09-12T11:36:38.196Z",
   "supportedLocales": [
     "en",
     "de"
@@ -384,35 +384,35 @@
     },
     "offer": {
       "isEnabled": true,
-      "activeFrom": "2026-08-27",
+      "activeFrom": "2026-09-12",
       "activeThrough": "2026-09-30",
       "eyebrow": {
-        "en": "",
-        "de": ""
+        "en": "LITTLE EXTRA from us ",
+        "de": "KLEINES EXTRA? "
       },
       "headline": {
-        "en": "COOKIE 🍪",
-        "de": "COOKIE 🍪"
+        "en": "CAPPUCCINO + BALLO MANDORLA",
+        "de": "CAPPUCCINO + BALLO MANDORLA"
       },
       "highlight": {
-        "en": "with your cappuccino! ☺️",
-        "de": "zum Cappuccino."
+        "en": "€6.10",
+        "de": "€6,10"
       },
       "text": {
-        "en": "",
-        "de": ""
+        "en": "One cappuccino. One almond biscotto. Better together.",
+        "de": "Ein Cappuccino. Ein Mandelgebäck. Passt einfach."
       },
       "validityLabel": {
-        "en": "",
-        "de": ""
+        "en": "Limited offer",
+        "de": "Solange der Vorrat reicht."
       },
       "footer": {
         "en": "",
         "de": ""
       },
       "buttonTitle": {
-        "en": "show at the bar ",
-        "de": "An der Bar zeigen"
+        "en": "Show this when ordering",
+        "de": "Beim Bestellen zeigen"
       },
       "passFooter": {
         "en": "",
