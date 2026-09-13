@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-13T09:38:12.024Z",
-  "publishedAt": "2026-09-13T09:38:12.024Z",
+  "revision": "2026-09-13T09:40:46.758Z",
+  "publishedAt": "2026-09-13T09:40:46.758Z",
   "supportedLocales": [
     "en",
     "de"
@@ -350,7 +350,7 @@
           {
             "id": "banana-bread",
             "name": {
-              "en": "Banana Bread",
+              "en": "Banana Bread  TEST",
               "de": "Bananenbrot"
             },
             "note": {
