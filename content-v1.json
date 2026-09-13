@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-13T08:48:28.479Z",
-  "publishedAt": "2026-09-13T08:48:28.479Z",
+  "revision": "2026-09-13T09:38:12.024Z",
+  "publishedAt": "2026-09-13T09:38:12.024Z",
   "supportedLocales": [
     "en",
     "de"
@@ -25,7 +25,7 @@
         },
         "subtitle": {
           "en": "Pure & Black",
-          "de": "Pur. Schwarz"
+          "de": "Pur & schwarz"
         },
         "items": [
           {
@@ -36,7 +36,20 @@
             },
             "note": null,
             "price": {
-              "amountMinor": 320,
+              "amountMinor": 500,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "cold-brew",
+            "name": {
+              "en": "Cold Brew",
+              "de": "Cold Brew"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 650,
               "currency": "EUR"
             },
             "isAvailable": true
@@ -71,19 +84,6 @@
             "isAvailable": true
           },
           {
-            "id": "cold-brew",
-            "name": {
-              "en": "Cold Brew",
-              "de": "Cold Brew"
-            },
-            "note": null,
-            "price": {
-              "amountMinor": 490,
-              "currency": "EUR"
-            },
-            "isAvailable": true
-          },
-          {
             "id": "cold-brew-tonic",
             "name": {
               "en": "Cold Brew Tonic",
@@ -110,27 +110,33 @@
         },
         "items": [
           {
-            "id": "cappuccino",
+            "id": "cortado",
             "name": {
-              "en": "Cappuccino",
-              "de": "Cappuccino"
+              "en": "Cortado",
+              "de": "Cortado"
             },
-            "note": null,
+            "note": {
+              "en": "Espresso · little warm milk · bold & smooth",
+              "de": "Espresso · wenig warme Milch · kräftig & weich"
+            },
             "price": {
-              "amountMinor": 460,
+              "amountMinor": 390,
               "currency": "EUR"
             },
             "isAvailable": true
           },
           {
-            "id": "latte-macchiato",
+            "id": "cappuccino",
             "name": {
-              "en": "Latte Macchiato",
-              "de": "Latte Macchiato"
+              "en": "Cappuccino",
+              "de": "Cappuccino"
             },
-            "note": null,
+            "note": {
+              "en": "Espresso · steamed milk · soft foam",
+              "de": "Espresso · warme Milch · feiner Milchschaum"
+            },
             "price": {
-              "amountMinor": 480,
+              "amountMinor": 460,
               "currency": "EUR"
             },
             "isAvailable": true
@@ -141,22 +147,44 @@
               "en": "Flat White",
               "de": "Flat White"
             },
-            "note": null,
+            "note": {
+              "en": "Silky · coffee-forward",
+              "de": "Seidig · Kaffee im Vordergrund"
+            },
             "price": {
-              "amountMinor": 540,
+              "amountMinor": 490,
               "currency": "EUR"
             },
             "isAvailable": true
           },
           {
-            "id": "cortado",
+            "id": "latte-macchiato",
             "name": {
-              "en": "Cortado",
-              "de": "Cortado"
+              "en": "Latte Macchiato",
+              "de": "Latte Macchiato"
             },
-            "note": null,
+            "note": {
+              "en": "Espresso · more milk · soft & mellow",
+              "de": "Espresso · mehr von Milch · mild & weich"
+            },
             "price": {
-              "amountMinor": 380,
+              "amountMinor": 500,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "mocha",
+            "name": {
+              "en": "Mocha",
+              "de": "Mocha"
+            },
+            "note": {
+              "en": "Espresso · chocolate · steamed milk",
+              "de": "Espresso · Schokolade · warme Milch"
+            },
+            "price": {
+              "amountMinor": 560,
               "currency": "EUR"
             },
             "isAvailable": true
