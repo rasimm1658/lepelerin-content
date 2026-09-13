@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-12T12:19:20.185Z",
-  "publishedAt": "2026-09-12T12:19:20.185Z",
+  "revision": "2026-09-13T08:48:28.479Z",
+  "publishedAt": "2026-09-13T08:48:28.479Z",
   "supportedLocales": [
     "en",
     "de"
@@ -558,6 +558,10 @@
     }
   },
   "beansV2": {
+    "coffeeRecommendation": {
+      "enabled": true,
+      "questionMode": "adaptive"
+    },
     "currentlyServing": {
       "espresso": {
         "title": {
@@ -799,7 +803,7 @@
           "packages": [
             {
               "id": "package-ec6a8d00-ab18-4262-a0bd-331a6759f5ee",
-              "weightGrams": 250,
+              "weightGrams": 180,
               "price": {
                 "amountMinor": 1600,
                 "currency": "EUR"
@@ -807,7 +811,7 @@
             },
             {
               "id": "package-d08ede58-8315-42e1-b1ac-d1532e51d926",
-              "weightGrams": 250,
+              "weightGrams": 300,
               "price": {
                 "amountMinor": 1800,
                 "currency": "EUR"
@@ -837,6 +841,15 @@
             "en": "Wood, Spices, Floral ",
             "de": "Holz, Würze, Floral "
           },
+          "recommendationProfile": {
+            "espresso": "medium",
+            "milk": "low",
+            "filter": "high",
+            "chocolateNutty": "low",
+            "fruityFloral": "low",
+            "intensity": "medium",
+            "adventurousness": "balanced"
+          },
           "image": null,
           "origin": {
             "country": {
@@ -859,9 +872,9 @@
           "packages": [
             {
               "id": "package-09cdbf1f-977b-41c3-b1a8-e62b030a5886",
-              "weightGrams": 250,
+              "weightGrams": 180,
               "price": {
-                "amountMinor": 0,
+                "amountMinor": 1700,
                 "currency": "EUR"
               }
             }
