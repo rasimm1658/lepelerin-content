@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T16:41:21.431Z",
-  "publishedAt": "2026-09-14T16:41:21.431Z",
+  "revision": "2026-09-14T16:43:57.583Z",
+  "publishedAt": "2026-09-14T16:43:57.583Z",
   "supportedLocales": [
     "en",
     "de"
@@ -255,12 +255,12 @@
       {
         "id": "something-special",
         "title": {
-          "en": "A BIT DIFFERENT ",
-          "de": "ETWAS ANDERES"
+          "en": "SPECIALS",
+          "de": "ETWAS BESONDERES"
         },
         "subtitle": {
-          "en": "Small Things Worth Asking For",
-          "de": "Kleine Besonderheiten"
+          "en": "A bit different.",
+          "de": "Etwas besonderes "
         },
         "items": [
           {
