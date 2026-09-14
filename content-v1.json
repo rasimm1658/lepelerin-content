@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T11:16:33.468Z",
-  "publishedAt": "2026-09-14T11:16:33.468Z",
+  "revision": "2026-09-14T11:18:09.729Z",
+  "publishedAt": "2026-09-14T11:18:09.729Z",
   "supportedLocales": [
     "en",
     "de"
@@ -205,7 +205,7 @@
           {
             "id": "matcha-latte",
             "name": {
-              "en": "Matcha Latte TEST",
+              "en": "Matcha Latte TEST 2",
               "de": "Matcha Latte "
             },
             "note": null,
@@ -218,7 +218,7 @@
           {
             "id": "hot-chocolate",
             "name": {
-              "en": "Hot Chocolate TEST",
+              "en": "Hot Chocolate TEST 2 ",
               "de": "Heiße Schokolade"
             },
             "note": null,
