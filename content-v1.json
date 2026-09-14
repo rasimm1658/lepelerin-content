@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T15:50:14.196Z",
-  "publishedAt": "2026-09-14T15:50:14.196Z",
+  "revision": "2026-09-14T16:04:34.887Z",
+  "publishedAt": "2026-09-14T16:04:34.887Z",
   "supportedLocales": [
     "en",
     "de"
@@ -116,8 +116,8 @@
               "de": "Cortado"
             },
             "note": {
-              "en": "Espresso · little warm milk · bold & smooth",
-              "de": "Espresso · wenig warme Milch · kräftig & weich"
+              "en": "Espresso · 1:1 warm milk · bold & smooth",
+              "de": "Espresso · 1:1 warme Milch · kräftig & weich"
             },
             "price": {
               "amountMinor": 390,
@@ -205,10 +205,13 @@
           {
             "id": "matcha-latte",
             "name": {
-              "en": "Matcha Latte TEST 6",
+              "en": "Matcha Latte",
               "de": "Matcha Latte "
             },
-            "note": null,
+            "note": {
+              "en": "Matcha · steamed milk · hot or iced",
+              "de": "Matcha · warme Milch · heiß oder auf Eis"
+            },
             "price": {
               "amountMinor": 580,
               "currency": "EUR"
@@ -218,10 +221,13 @@
           {
             "id": "hot-chocolate",
             "name": {
-              "en": "Hot Chocolate TEST 6",
+              "en": "Hot Chocolate",
               "de": "Heiße Schokolade"
             },
-            "note": null,
+            "note": {
+              "en": "Chocolate · steamed milk · smooth & rich",
+              "de": "Schokolade · warme Milch · cremig & voll"
+            },
             "price": {
               "amountMinor": 480,
               "currency": "EUR"
@@ -231,12 +237,12 @@
           {
             "id": "tea",
             "name": {
-              "en": "Tea",
-              "de": "Tee"
+              "en": "House Tea",
+              "de": "Unser Tee "
             },
             "note": {
-              "en": "ask what is available today",
-              "de": "frag nach der heutigen Auswahl"
+              "en": "Warm · simple · no fuss",
+              "de": "Warm · einfach · ohne Schnickschnack"
             },
             "price": {
               "amountMinor": 380,
