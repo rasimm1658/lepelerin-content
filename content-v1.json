@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T11:11:21.063Z",
-  "publishedAt": "2026-09-14T11:11:21.063Z",
+  "revision": "2026-09-14T11:16:33.468Z",
+  "publishedAt": "2026-09-14T11:16:33.468Z",
   "supportedLocales": [
     "en",
     "de"
@@ -205,8 +205,8 @@
           {
             "id": "matcha-latte",
             "name": {
-              "en": "Matcha Latte",
-              "de": "Matcha Latte"
+              "en": "Matcha Latte TEST",
+              "de": "Matcha Latte "
             },
             "note": null,
             "price": {
@@ -218,7 +218,7 @@
           {
             "id": "hot-chocolate",
             "name": {
-              "en": "Hot Chocolate",
+              "en": "Hot Chocolate TEST",
               "de": "Heiße Schokolade"
             },
             "note": null,
@@ -350,7 +350,7 @@
           {
             "id": "banana-bread",
             "name": {
-              "en": "ballo mandorle 2",
+              "en": "ballo mandorle ",
               "de": "Bananenbrot"
             },
             "note": {
