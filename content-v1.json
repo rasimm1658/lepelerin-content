@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T16:55:32.320Z",
-  "publishedAt": "2026-09-14T16:55:32.320Z",
+  "revision": "2026-09-14T20:40:32.753Z",
+  "publishedAt": "2026-09-14T20:40:32.753Z",
   "supportedLocales": [
     "en",
     "de"
@@ -673,6 +673,20 @@
           "de": "Außergewöhnlich würzige und komplexe Noten, die sich im Laufe der Zeit entwickeln. Leichter Holz-Touch."
         },
         "image": null,
+        "origin": {
+          "region": {
+            "en": "Indonesia",
+            "de": "Indonesia"
+          },
+          "producer": {
+            "en": "Finca",
+            "de": "Finca"
+          },
+          "process": {
+            "en": "natural",
+            "de": "natural"
+          }
+        },
         "enabled": true,
         "coffeeName": {
           "en": "SUMATRA ",
@@ -680,7 +694,7 @@
         },
         "servingMl": 180,
         "price": {
-          "amountMinor": 850,
+          "amountMinor": 550,
           "currency": "EUR"
         }
       }
@@ -722,7 +736,7 @@
           "packages": [
             {
               "id": "package-lepelerin-cinder-160g",
-              "weightGrams": 160,
+              "weightGrams": 180,
               "price": {
                 "amountMinor": 1490,
                 "currency": "EUR"
@@ -730,7 +744,7 @@
             },
             {
               "id": "package-lepelerin-cinder-300g",
-              "weightGrams": 300,
+              "weightGrams": 330,
               "price": {
                 "amountMinor": 2190,
                 "currency": "EUR"
@@ -771,7 +785,7 @@
           "packages": [
             {
               "id": "package-9e5c1236-266f-4dab-b9f0-be8506323022",
-              "weightGrams": 250,
+              "weightGrams": 180,
               "price": {
                 "amountMinor": 1700,
                 "currency": "EUR"
@@ -779,7 +793,7 @@
             },
             {
               "id": "package-30e3f732-aeb9-4dda-a3ef-b0143f59e0e8",
-              "weightGrams": 300,
+              "weightGrams": 330,
               "price": {
                 "amountMinor": 2100,
                 "currency": "EUR"
@@ -820,7 +834,7 @@
           "packages": [
             {
               "id": "montebera-gipfelstuermer-160g",
-              "weightGrams": 160,
+              "weightGrams": 180,
               "price": {
                 "amountMinor": 1490,
                 "currency": "EUR"
@@ -828,7 +842,7 @@
             },
             {
               "id": "montebera-gipfelstuermer-250g",
-              "weightGrams": 250,
+              "weightGrams": 330,
               "price": {
                 "amountMinor": 2190,
                 "currency": "EUR"
@@ -877,7 +891,58 @@
             },
             {
               "id": "package-d08ede58-8315-42e1-b1ac-d1532e51d926",
-              "weightGrams": 300,
+              "weightGrams": 330,
+              "price": {
+                "amountMinor": 1800,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bean-00cc7e6c-673a-48e7-ab09-f7c98ad833b7",
+          "available": true,
+          "archived": false,
+          "shelfGroup": "lepelerin-collection",
+          "shelfStatus": "available",
+          "title": {
+            "en": "N°05  SABLÉ",
+            "de": "N°05  SABLÉ"
+          },
+          "subtitle": {
+            "en": "Earthy, spiced and softly vanilla.",
+            "de": "Erdig, würzig und sanft vanillig."
+          },
+          "description": {
+            "en": "A grounded, aromatic coffee with earthy spice and a soft vanilla finish. Smooth, balanced and quietly distinctive.",
+            "de": "Ein aromatischer, erdiger Kaffee mit feiner Würze und einem sanften Vanillenachhall. Rund, ausgewogen und angenehm eigenständig."
+          },
+          "flavourNotes": {
+            "en": "earthy · warm spice · vanilla",
+            "de": "erdig · warme Würze · Vanille"
+          },
+          "recommendationProfile": {
+            "espresso": "medium",
+            "milk": "low",
+            "filter": "high",
+            "chocolateNutty": "low",
+            "fruityFloral": "low",
+            "intensity": "medium",
+            "adventurousness": "adventurous"
+          },
+          "image": null,
+          "packages": [
+            {
+              "id": "package-73db0ee0-ab7c-4f76-ae65-7802dbd2304c",
+              "weightGrams": 180,
+              "price": {
+                "amountMinor": 1600,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "package-c8bbdf1b-19fa-48af-81db-242b9424abf1",
+              "weightGrams": 330,
               "price": {
                 "amountMinor": 1800,
                 "currency": "EUR"
