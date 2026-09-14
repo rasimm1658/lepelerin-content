@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T20:48:12.064Z",
-  "publishedAt": "2026-09-14T20:48:12.064Z",
+  "revision": "2026-09-14T20:49:19.000Z",
+  "publishedAt": "2026-09-14T20:49:19.000Z",
   "supportedLocales": [
     "en",
     "de"
@@ -493,16 +493,16 @@
       "de": "HEUTE IM FILTER"
     },
     "title": {
-      "en": "Più Elegante",
-      "de": "Più Elegante"
+      "en": "N°05 SABLE",
+      "de": "N°05 SABLE"
     },
     "notes": {
-      "en": "earthy · spiced · vanilla",
-      "de": "erdig · würzig · Vanille"
+      "en": "Earthy, spiced and softly vanilla.",
+      "de": "Erdig, würzig und sanft vanillig."
     },
     "description": {
-      "en": "Round and aromatic, with earthy spice and a soft vanilla finish. 100% Arabica from Uganda, Colombia and Papua New Guinea.",
-      "de": "Rund und aromatisch, mit erdiger Würze und einem weichen Hauch Vanille. 100% Arabica aus Uganda, Kolumbien und Papua-Neuguinea."
+      "en": "A grounded, aromatic coffee with earthy spice and a soft vanilla finish. Smooth, balanced and quietly distinctive.",
+      "de": "Ein aromatischer, erdiger Kaffee mit feiner Würze und einem sanften Vanillenachhall. Rund, ausgewogen und angenehm eigenständig."
     },
     "symbol": "è",
     "availabilityLabel": {
