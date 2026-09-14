@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T16:43:57.583Z",
-  "publishedAt": "2026-09-14T16:43:57.583Z",
+  "revision": "2026-09-14T16:44:51.859Z",
+  "publishedAt": "2026-09-14T16:44:51.859Z",
   "supportedLocales": [
     "en",
     "de"
@@ -260,7 +260,7 @@
         },
         "subtitle": {
           "en": "A bit different.",
-          "de": "Etwas besonderes "
+          "de": "Kleines bisschen anderes "
         },
         "items": [
           {
