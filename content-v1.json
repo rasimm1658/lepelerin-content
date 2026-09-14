@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T21:03:16.693Z",
-  "publishedAt": "2026-09-14T21:03:16.693Z",
+  "revision": "2026-09-14T21:08:26.920Z",
+  "publishedAt": "2026-09-14T21:08:26.920Z",
   "supportedLocales": [
     "en",
     "de"
@@ -1050,8 +1050,8 @@
           "de": "Immer frisch mahlen."
         },
         "text": {
-          "en": "Ground coffee loses aroma quickly. That is why we sell our beans whole — and recommend grinding right before brewing.",
-          "de": "Gemahlener Kaffee verliert schnell an Aroma. Deshalb verkaufen wir unsere Bohnen im Ganzen – und empfehlen, sie erst direkt vor dem Brühen zu mahlen."
+          "en": "Ground coffee loses aroma quickly. That is why we sell our beans whole and recommend grinding right before brewing.",
+          "de": "Gemahlener Kaffee verliert schnell an Aroma. Deshalb verkaufen wir unsere Bohnen im Ganzen und empfehlen, sie erst direkt vor dem Brühen zu mahlen."
         }
       },
       {
@@ -1135,8 +1135,8 @@
           "de": "Heißer ist nicht immer besser."
         },
         "text": {
-          "en": "Water temperature changes extraction. Too hot can taste harsh; too cool can taste flat.",
-          "de": "Die Wassertemperatur verändert die Extraktion. Zu heiß kann harsch schmecken, zu kühl flach."
+          "en": "Water temperature changes extraction. Too hot can taste harsh; too cool can taste flat. For filter coffee, 87–96°C is a good range. Lighter roasts often like it hotter; darker roasts a little cooler.",
+          "de": "Die Wassertemperatur verändert die Extraktion. Zu heiß kann harsch schmecken, zu kühl flach. Für Filterkaffee sind 87–96 °C ein guter Bereich. Helle Röstungen mögen es oft etwas heißer, dunklere etwas kühler."
         }
       },
       {
