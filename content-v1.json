@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T16:44:51.859Z",
-  "publishedAt": "2026-09-14T16:44:51.859Z",
+  "revision": "2026-09-14T16:55:32.320Z",
+  "publishedAt": "2026-09-14T16:55:32.320Z",
   "supportedLocales": [
     "en",
     "de"
@@ -340,12 +340,12 @@
           {
             "id": "butter-croissant",
             "name": {
-              "en": "Butter Croissant",
-              "de": "Buttercroissant"
+              "en": "Ballo Mandorla",
+              "de": "Ballo Mandorla"
             },
             "note": {
-              "en": "when available",
-              "de": "wenn verfügbar"
+              "en": "Soft almond pastry · marzipan · toasted almonds",
+              "de": "Weiches Mandelgebäck · Marzipan · Mandelsplitter"
             },
             "price": {
               "amountMinor": 290,
@@ -356,15 +356,15 @@
           {
             "id": "banana-bread",
             "name": {
-              "en": "ballo mandorle ",
-              "de": "Bananenbrot"
+              "en": "Pistacchio",
+              "de": "Pistacchio"
             },
             "note": {
-              "en": "when available",
-              "de": "wenn verfügbar"
+              "en": "Soft marzipan pastry · pistachio · nutty & rich",
+              "de": "Weiches Marzipangebäck · Pistazie · nussig & voll"
             },
             "price": {
-              "amountMinor": 380,
+              "amountMinor": 320,
               "currency": "EUR"
             },
             "isAvailable": true
@@ -372,15 +372,47 @@
           {
             "id": "seasonal-pastry",
             "name": {
-              "en": "Seasonal Pastry",
-              "de": "Saisonales Gebäck"
+              "en": "Nocello Dunkel",
+              "de": "Nocello Dunkel"
             },
             "note": {
-              "en": "ask what is fresh today",
-              "de": "Mal sehen, was heute da ist."
+              "en": "Hazelnut pastry · dark chocolate · softly sweet",
+              "de": "Haselnussgebäck · dunkle Schokolade · fein süß"
             },
             "price": {
-              "amountMinor": 380,
+              "amountMinor": 310,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "golosi-limone-vegan",
+            "name": {
+              "en": "Golosi Limone VEGAN",
+              "de": "Golosi Limone VEGAN"
+            },
+            "note": {
+              "en": "Vegan marzipan pastry · lemon & lime · bright & fresh",
+              "de": "Veganes Marzipangebäck · Zitrone & Limette · frisch & leicht"
+            },
+            "price": {
+              "amountMinor": 310,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "cantuccino-duro",
+            "name": {
+              "en": "Cantuccino Duro",
+              "de": "Cantuccino Duro"
+            },
+            "note": {
+              "en": "Crunchy almond cantuccino · made for coffee",
+              "de": "Knuspriges Mandel-Cantuccino · wie gemacht zum Kaffee"
+            },
+            "price": {
+              "amountMinor": 220,
               "currency": "EUR"
             },
             "isAvailable": true
