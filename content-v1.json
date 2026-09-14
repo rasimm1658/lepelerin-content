@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-13T10:09:46.466Z",
-  "publishedAt": "2026-09-13T10:09:46.466Z",
+  "revision": "2026-09-14T11:10:16.126Z",
+  "publishedAt": "2026-09-14T11:10:16.126Z",
   "supportedLocales": [
     "en",
     "de"
@@ -350,7 +350,7 @@
           {
             "id": "banana-bread",
             "name": {
-              "en": "Banana Bread  TEST 2",
+              "en": "ballo mandorle ",
               "de": "Bananenbrot"
             },
             "note": {
