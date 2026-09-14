@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T16:04:34.887Z",
-  "publishedAt": "2026-09-14T16:04:34.887Z",
+  "revision": "2026-09-14T16:11:43.085Z",
+  "publishedAt": "2026-09-14T16:11:43.085Z",
   "supportedLocales": [
     "en",
     "de"
@@ -270,8 +270,8 @@
               "de": "Lavendel RAF"
             },
             "note": {
-              "en": "soft, floral, sweet",
-              "de": "sanft, floral, süß"
+              "en": "Creamy · floral · softly sweet",
+              "de": "Cremig · floral · sanft süß"
             },
             "price": {
               "amountMinor": 580,
@@ -286,8 +286,8 @@
               "de": "Nutty Coffee"
             },
             "note": {
-              "en": "warm, round, comforting",
-              "de": "warm, rund, wohltuend"
+              "en": "Nutty · creamy · comforting",
+              "de": "Nussig · cremig · wohlig"
             },
             "price": {
               "amountMinor": 580,
@@ -302,8 +302,8 @@
               "de": "Affogato"
             },
             "note": {
-              "en": "espresso over vanilla ice cream",
-              "de": "Espresso auf Vanilleeis"
+              "en": "Espresso · vanilla ice cream",
+              "de": "Espresso · Vanilleeis"
             },
             "price": {
               "amountMinor": 450,
@@ -322,7 +322,7 @@
               "amountMinor": 580,
               "currency": "EUR"
             },
-            "isAvailable": true
+            "isAvailable": false
           }
         ]
       },
