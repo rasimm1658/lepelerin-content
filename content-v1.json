@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T20:40:32.753Z",
-  "publishedAt": "2026-09-14T20:40:32.753Z",
+  "revision": "2026-09-14T20:48:12.064Z",
+  "publishedAt": "2026-09-14T20:48:12.064Z",
   "supportedLocales": [
     "en",
     "de"
@@ -957,47 +957,51 @@
           "shelfGroup": "origin",
           "shelfStatus": "available",
           "title": {
-            "en": "SUMATRA Single Estate LOT",
-            "de": "SUMATRA Single Estate LOT "
+            "en": "SOLIDARIDAD",
+            "de": "SOLIDARIDAD"
           },
           "subtitle": {
-            "en": "SPICY . COMPLEX . WOODY TOUCH AFTER TASTE ",
-            "de": "WÜRZIG. KOMPLEX . HOLZIGE BERÜHRUNG Abgangsnote "
+            "en": "2nd place Cup of Excellence Nicaragua 2025",
+            "de": "2nd place Cup of Excellence Nicaragua 2025"
           },
           "description": {
-            "en": "Simply, genius ",
-            "de": "Einfach und genial "
+            "en": "José Ramón Jarquín Gómez\n",
+            "de": "José Ramón Jarquín Gómez\n"
           },
           "flavourNotes": {
-            "en": "Wood, Spices, Floral ",
-            "de": "Holz, Würze, Floral "
+            "en": "Apricot · Hibiscus · Mango · Orange · Maple Syrup\n",
+            "de": "Aprikose · Hibiskus · Mango · Orange · Ahornsirup"
           },
           "recommendationProfile": {
-            "espresso": "medium",
+            "espresso": "low",
             "milk": "low",
             "filter": "high",
             "chocolateNutty": "low",
-            "fruityFloral": "low",
-            "intensity": "medium",
-            "adventurousness": "balanced"
+            "fruityFloral": "high",
+            "intensity": "bold",
+            "adventurousness": "adventurous"
           },
           "image": null,
           "origin": {
             "country": {
-              "en": "Indonasia ",
-              "de": "Indonesien"
+              "en": "Nicaragua",
+              "de": "Nicaragua"
             },
             "region": {
-              "en": "SUMATRA Island ",
-              "de": "SUMATRA Insel"
+              "en": "Matagalpa",
+              "de": "Matagalpa"
             },
             "producer": {
-              "en": "Koh Pan Gang ",
-              "de": "Koh Pan Gang "
+              "en": "FINCA ",
+              "de": "FINCA"
             },
             "process": {
-              "en": "natural",
-              "de": "naturak"
+              "en": "Washed",
+              "de": "Washed"
+            },
+            "variety": {
+              "en": "Maracaturra",
+              "de": "Maracaturra"
             }
           },
           "packages": [
