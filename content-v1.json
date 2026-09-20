@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-20T08:34:24.373Z",
-  "publishedAt": "2026-09-20T08:34:24.373Z",
+  "revision": "2026-09-20T08:35:11.659Z",
+  "publishedAt": "2026-09-20T08:35:11.659Z",
   "supportedLocales": [
     "en",
     "de"
@@ -42,19 +42,6 @@
             "isAvailable": true
           },
           {
-            "id": "cold-brew",
-            "name": {
-              "en": "Cold Brew",
-              "de": "Cold Brew"
-            },
-            "note": null,
-            "price": {
-              "amountMinor": 650,
-              "currency": "EUR"
-            },
-            "isAvailable": true
-          },
-          {
             "id": "americano",
             "name": {
               "en": "Americano",
@@ -79,6 +66,19 @@
             },
             "price": {
               "amountMinor": 480,
+              "currency": "EUR"
+            },
+            "isAvailable": true
+          },
+          {
+            "id": "cold-brew",
+            "name": {
+              "en": "Cold Brew",
+              "de": "Cold Brew"
+            },
+            "note": null,
+            "price": {
+              "amountMinor": 650,
               "currency": "EUR"
             },
             "isAvailable": true
