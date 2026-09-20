@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-14T21:08:26.920Z",
-  "publishedAt": "2026-09-14T21:08:26.920Z",
+  "revision": "2026-09-20T08:34:24.373Z",
+  "publishedAt": "2026-09-20T08:34:24.373Z",
   "supportedLocales": [
     "en",
     "de"
@@ -36,7 +36,7 @@
             },
             "note": null,
             "price": {
-              "amountMinor": 500,
+              "amountMinor": 320,
               "currency": "EUR"
             },
             "isAvailable": true
