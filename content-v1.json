@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-20T08:35:11.659Z",
-  "publishedAt": "2026-09-20T08:35:11.659Z",
+  "revision": "2026-09-28T19:21:26.630Z",
+  "publishedAt": "2026-09-28T19:21:26.630Z",
   "supportedLocales": [
     "en",
     "de"
@@ -450,23 +450,23 @@
     },
     "offer": {
       "isEnabled": true,
-      "activeFrom": "2026-09-12",
-      "activeThrough": "2026-09-30",
+      "activeFrom": "2026-09-28",
+      "activeThrough": "2026-10-31",
       "eyebrow": {
-        "en": "LITTLE EXTRA from us ",
-        "de": "KLEINES EXTRA? "
+        "en": "Ciao 🇮🇹!",
+        "de": "Ciao 🇮🇹! "
       },
       "headline": {
-        "en": "CAPPUCCINO + BALLO MANDORLA",
-        "de": "CAPPUCCINO + BALLO MANDORLA"
+        "en": "Italian Breakfast! ",
+        "de": "Italienisches Frühstück!"
       },
       "highlight": {
         "en": "€6.10",
         "de": "€6,10"
       },
       "text": {
-        "en": "One cappuccino. One almond biscotto. Better together.",
-        "de": "Ein Cappuccino. Ein Mandelgebäck. Passt einfach."
+        "en": "One cappuccino. One butter croissant. Better together.",
+        "de": "Ein Cappuccino. Ein Buttercroissant. Passt einfach."
       },
       "validityLabel": {
         "en": "Limited offer",
